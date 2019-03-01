@@ -1,0 +1,26 @@
+.title{
+    margin-top: 0.5em !important; 
+    color: red;
+    font-size: 1.5em !important;
+}
+
+.temp, .temp-max, .temp-min{
+    text-align: right;
+    font-size: 1.5em;
+}
+
+.atual, .max, .min{
+    margin-left: .5em;
+}
+
+.atual{
+    color: green;
+}
+
+.max{
+    color: red;
+}
+
+.min{
+    color:blue;
+}

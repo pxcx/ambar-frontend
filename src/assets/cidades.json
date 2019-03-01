@@ -1,0 +1,2420 @@
+[
+    { "text": "Vitoria do Mearim", "key": 3384986, "value": 3384986
+    },
+    { "text": "Vitoria de Santo Antao", "key": 3384987, "value": 3384987
+    },
+    { "text": "Viseu", "key": 3385022, "value": 3385022
+    },
+    { "text": "Conde", "key": 3385077, "value": 3385077
+    },
+    { "text": "Vigia", "key": 3385088, "value": 3385088
+    },
+    { "text": "Vicosa do Ceara", "key": 3385106, "value": 3385106
+    },
+    { "text": "Vicosa", "key": 3385109, "value": 3385109
+    },
+    { "text": "Viana", "key": 3385122, "value": 3385122
+    },
+    { "text": "Varzea Alegre", "key": 3385467, "value": 3385467
+    },
+    { "text": "Varjota", "key": 3385504, "value": 3385504
+    },
+    { "text": "Vargem Grande", "key": 3385538, "value": 3385538
+    },
+    { "text": "Valenca do Piaui", "key": 3385592, "value": 3385592
+    },
+    { "text": "Uniao dos Palmares", "key": 3385742, "value": 3385742
+    },
+    { "text": "Uniao", "key": 3385745, "value": 3385745
+    },
+    { "text": "Tuntum", "key": 3385922, "value": 3385922
+    },
+    { "text": "Tucurui", "key": 3385935, "value": 3385935
+    },
+    { "text": "Tucuma", "key": 3385980, "value": 3385980
+    },
+    { "text": "Trindade", "key": 3386042, "value": 3386042
+    },
+    { "text": "Trairi", "key": 3386177, "value": 3386177
+    },
+    { "text": "Toritama", "key": 3386264, "value": 3386264
+    },
+    { "text": "Tome Acu", "key": 3386279, "value": 3386279
+    },
+    { "text": "Timon", "key": 3386361, "value": 3386361
+    },
+    { "text": "Timbiras", "key": 3386372, "value": 3386372
+    },
+    { "text": "Timbauba", "key": 3386396, "value": 3386396
+    },
+    { "text": "Tiangua", "key": 3386449, "value": 3386449
+    },
+    { "text": "Teresina", "key": 3386496, "value": 3386496
+    },
+    { "text": "Sao Joao dos Inhamuns", "key": 3386567, "value": 3386567
+    },
+    { "text": "Tamandare", "key": 3386931, "value": 3386931
+    },
+    { "text": "Tabira", "key": 3387082, "value": 3387082
+    },
+    { "text": "Surubim", "key": 3387115, "value": 3387115
+    },
+    { "text": "Sousa", "key": 3387202, "value": 3387202
+    },
+    { "text": "Soure", "key": 3387204, "value": 3387204
+    },
+    { "text": "Solanea", "key": 3387266, "value": 3387266
+    },
+    { "text": "Sobral", "key": 3387296, "value": 3387296
+    },
+    { "text": "Sirinhaem", "key": 3387604, "value": 3387604
+    },
+    { "text": "Sertania", "key": 3387663, "value": 3387663
+    },
+    { "text": "Serra Talhada", "key": 3387786, "value": 3387786
+    },
+    { "text": "Senador Pompeu", "key": 3387926, "value": 3387926
+    },
+    { "text": "Satuba", "key": 3387987, "value": 3387987
+    },
+    { "text": "Sao Raimundo Nonato", "key": 3388145, "value": 3388145
+    },
+    { "text": "Sao Miguel dos Campos", "key": 3388269, "value": 3388269
+    },
+    { "text": "Sao Miguel do Guama", "key": 3388270, "value": 3388270
+    },
+    { "text": "Sao Mateus do Maranhao", "key": 3388318, "value": 3388318
+    },
+    { "text": "Sao Luis do Quitunde", "key": 3388341, "value": 3388341
+    },
+    { "text": "Sao Luis", "key": 3388368, "value": 3388368
+    },
+    { "text": "Sao Lourenco da Mata", "key": 3388376, "value": 3388376
+    },
+    { "text": "Sao Jose do Egito", "key": 3388435, "value": 3388435
+    },
+    { "text": "Sao Jose de Ribamar", "key": 3388441, "value": 3388441
+    },
+    { "text": "Sao Jose de Mipibu", "key": 3388443, "value": 3388443
+    },
+    { "text": "Sao Joao dos Patos", "key": 3388615, "value": 3388615
+    },
+    { "text": "Sao Goncalo do Amarante", "key": 3388714, "value": 3388714
+    },
+    { "text": "Sao Felix do Xingu", "key": 3388847, "value": 3388847
+    },
+    { "text": "Sao Domingos do Maranhao",
+  "key": 3388868,
+  "value": 3388868
+    },
+    { "text": "Sao Bento", "key": 3388991, "value": 3388991
+    },
+    { "text": "Sao Bento", "key": 3389006, "value": 3389006
+    },
+    { "text": "Santa Rita", "key": 3389321, "value": 3389321
+    },
+    { "text": "Santarem", "key": 3389353, "value": 3389353
+    },
+    { "text": "Santa Quiteria do Maranhao",
+  "key": 3389358,
+  "value": 3389358
+    },
+    { "text": "Santa Quiteria", "key": 3389361, "value": 3389361
+    },
+    { "text": "Santana do Ipanema", "key": 3389384, "value": 3389384
+    },
+    { "text": "Santa Luzia", "key": 3389557, "value": 3389557
+    },
+    { "text": "Santa Ines", "key": 3389609, "value": 3389609
+    },
+    { "text": "Santa Helena", "key": 3389622, "value": 3389622
+    },
+    { "text": "Santa Cruz do Capibaribe",
+  "key": 3389652,
+  "value": 3389652
+    },
+    { "text": "Santa Cruz", "key": 3389673, "value": 3389673
+    },
+    { "text": "Salinopolis", "key": 3389822, "value": 3389822
+    },
+    { "text": "Salgueiro", "key": 3389860, "value": 3389860
+    },
+    { "text": "Russas", "key": 3390160, "value": 3390160
+    },
+    { "text": "Rio Largo", "key": 3390288, "value": 3390288
+    },
+    { "text": "Rio Formoso", "key": 3390295, "value": 3390295
+    },
+    { "text": "Ribeirao", "key": 3390326, "value": 3390326
+    },
+    { "text": "Recife", "key": 3390760, "value": 3390760
+    },
+    { "text": "Quixeramobim", "key": 3390901, "value": 3390901
+    },
+    { "text": "Quixada", "key": 3390907, "value": 3390907
+    },
+    { "text": "Presidente Dutra", "key": 3391220, "value": 3391220
+    },
+    { "text": "Santana", "key": 3391360, "value": 3391360
+    },
+    { "text": "Porto Calvo", "key": 3391397, "value": 3391397
+    },
+    { "text": "Portel", "key": 3391412, "value": 3391412
+    },
+    { "text": "Pombos", "key": 3391556, "value": 3391556
+    },
+    { "text": "Pombal", "key": 3391571, "value": 3391571
+    },
+    { "text": "Piripiri", "key": 3391908, "value": 3391908
+    },
+    { "text": "Piracuruca", "key": 3391991, "value": 3391991
+    },
+    { "text": "Pinheiro", "key": 3392054, "value": 3392054
+    },
+    { "text": "Pindare Mirim", "key": 3392088, "value": 3392088
+    },
+    { "text": "Pilar", "key": 3392126, "value": 3392126
+    },
+    { "text": "Picos", "key": 3392167, "value": 3392167
+    },
+    { "text": "Petrolina", "key": 3392242, "value": 3392242
+    },
+    { "text": "Jatoba", "key": 3392243, "value": 3392243
+    },
+    { "text": "Pesqueira", "key": 3392251, "value": 3392251
+    },
+    { "text": "Pentecoste", "key": 3392345, "value": 3392345
+    },
+    { "text": "Penalva", "key": 3392368, "value": 3392368
+    },
+    { "text": "Pedro II", "key": 3392431, "value": 3392431
+    },
+    { "text": "Pedra Branca", "key": 3392629, "value": 3392629
+    },
+    { "text": "Paulo Afonso", "key": 3392734, "value": 3392734
+    },
+    { "text": "Paulista", "key": 3392740, "value": 3392740
+    },
+    { "text": "Patos", "key": 3392887, "value": 3392887
+    },
+    { "text": "Parnamirim", "key": 3392998, "value": 3392998
+    },
+    { "text": "Parnaiba", "key": 3393001, "value": 3393001
+    },
+    { "text": "Parintins", "key": 3393008, "value": 3393008
+    },
+    { "text": "Parelhas", "key": 3393017, "value": 3393017
+    },
+    { "text": "Paraipaba", "key": 3393091, "value": 3393091
+    },
+    { "text": "Paragominas", "key": 3393106, "value": 3393106
+    },
+    { "text": "Paracuru", "key": 3393115, "value": 3393115
+    },
+    { "text": "Palmares", "key": 3393264, "value": 3393264
+    },
+    { "text": "Pacatuba", "key": 3393400, "value": 3393400
+    },
+    { "text": "Pacajus", "key": 3393409, "value": 3393409
+    },
+    { "text": "Ouricuri", "key": 3393452, "value": 3393452
+    },
+    { "text": "Oros", "key": 3393465, "value": 3393465
+    },
+    { "text": "Oriximina", "key": 3393471, "value": 3393471
+    },
+    { "text": "Olinda", "key": 3393536, "value": 3393536
+    },
+    { "text": "Oeiras", "key": 3393764, "value": 3393764
+    },
+    { "text": "Abidos", "key": 3393768, "value": 3393768
+    },
+    { "text": "Nova Russas", "key": 3393832, "value": 3393832
+    },
+    { "text": "Nova Cruz", "key": 3393876, "value": 3393876
+    },
+    { "text": "Nazare da Mata", "key": 3393972, "value": 3393972
+    },
+    { "text": "Natal", "key": 3394023, "value": 3394023
+    },
+    { "text": "Murici", "key": 3394116, "value": 3394116
+    },
+    { "text": "Moreno", "key": 3394453, "value": 3394453
+    },
+    { "text": "Morada Nova", "key": 3394500, "value": 3394500
+    },
+    { "text": "Monteiro", "key": 3394549, "value": 3394549
+    },
+    { "text": "Monte Alegre", "key": 3394605, "value": 3394605
+    },
+    { "text": "Mombaca", "key": 3394649, "value": 3394649
+    },
+    { "text": "Moju", "key": 3394661, "value": 3394661
+    },
+    { "text": "Mossoro", "key": 3394682, "value": 3394682
+    },
+    { "text": "Mocajuba", "key": 3394745, "value": 3394745
+    },
+    { "text": "Maues", "key": 3395062, "value": 3395062
+    },
+    { "text": "Matriz de Camaragibe", "key": 3395077, "value": 3395077
+    },
+    { "text": "Mari", "key": 3395380, "value": 3395380
+    },
+    { "text": "Marechal Deodoro", "key": 3395395, "value": 3395395
+    },
+    { "text": "Maragogi", "key": 3395458, "value": 3395458
+    },
+    { "text": "Maracanau", "key": 3395473, "value": 3395473
+    },
+    { "text": "Maraba", "key": 3395503, "value": 3395503
+    },
+    { "text": "Mamanguape", "key": 3395717, "value": 3395717
+    },
+    { "text": "Maceio", "key": 3395981, "value": 3395981
+    },
+    { "text": "Macau", "key": 3395998, "value": 3395998
+    },
+    { "text": "Macapa", "key": 3396016, "value": 3396016
+    },
+    { "text": "Macaiba", "key": 3396048, "value": 3396048
+    },
+    { "text": "Limoeiro do Norte", "key": 3396266, "value": 3396266
+    },
+    { "text": "Limoeiro", "key": 3396277, "value": 3396277
+    },
+    { "text": "Lavras da Mangabeira", "key": 3396364, "value": 3396364
+    },
+    { "text": "Lajedo", "key": 3396496, "value": 3396496
+    },
+    { "text": "Lago da Pedra", "key": 3396601, "value": 3396601
+    },
+    { "text": "Lagoa do Itaenga", "key": 3396769, "value": 3396769
+    },
+    { "text": "Juazeiro do Norte", "key": 3397147, "value": 3397147
+    },
+    { "text": "Jose de Freitas", "key": 3397230, "value": 3397230
+    },
+    { "text": "Joao Pessoa", "key": 3397277, "value": 3397277
+    },
+    { "text": "Joao Camara", "key": 3397315, "value": 3397315
+    },
+    { "text": "Jaguaruana", "key": 3397665, "value": 3397665
+    },
+    { "text": "Jaguaribe", "key": 3397675, "value": 3397675
+    },
+    { "text": "Jaboatao", "key": 3397838, "value": 3397838
+    },
+    { "text": "Itupiranga", "key": 3397851, "value": 3397851
+    },
+    { "text": "Itacoatiara", "key": 3397893, "value": 3397893
+    },
+    { "text": "Itaporanga", "key": 3397898, "value": 3397898
+    },
+    { "text": "Itapissuma", "key": 3397904, "value": 3397904
+    },
+    { "text": "Itapipoca", "key": 3397909, "value": 3397909
+    },
+    { "text": "Itapecuru Mirim", "key": 3397936, "value": 3397936
+    },
+    { "text": "Itapage", "key": 3397941, "value": 3397941
+    },
+    { "text": "Itaituba", "key": 3397967, "value": 3397967
+    },
+    { "text": "Itaitinga", "key": 3397969, "value": 3397969
+    },
+    { "text": "Itabaiana", "key": 3398003, "value": 3398003
+    },
+    { "text": "Ipueiras", "key": 3398076, "value": 3398076
+    },
+    { "text": "Ipubi", "key": 3398105, "value": 3398105
+    },
+    { "text": "Ipu", "key": 3398112, "value": 3398112
+    },
+    { "text": "Ipojuca", "key": 3398115, "value": 3398115
+    },
+    { "text": "Imperatriz", "key": 3398269, "value": 3398269
+    },
+    { "text": "Iguatu", "key": 3398331, "value": 3398331
+    },
+    { "text": "Igarape Miri", "key": 3398343, "value": 3398343
+    },
+    { "text": "Igarape Acu", "key": 3398350, "value": 3398350
+    },
+    { "text": "Igarassu", "key": 3398352, "value": 3398352
+    },
+    { "text": "Ico", "key": 3398379, "value": 3398379
+    },
+    { "text": "Horizonte", "key": 3398450, "value": 3398450
+    },
+    { "text": "Guaraciaba do Norte", "key": 3398569, "value": 3398569
+    },
+    { "text": "Guarabira", "key": 3398570, "value": 3398570
+    },
+    { "text": "Guaiuba", "key": 3398614, "value": 3398614
+    },
+    { "text": "Gravata", "key": 3398691, "value": 3398691
+    },
+    { "text": "Granja", "key": 3398706, "value": 3398706
+    },
+    { "text": "Grajau", "key": 3398856, "value": 3398856
+    },
+    { "text": "Goiana", "key": 3398904, "value": 3398904
+    },
+    { "text": "Gloria do Goita", "key": 3398920, "value": 3398920
+    },
+    { "text": "Garanhuns", "key": 3399058, "value": 3399058
+    },
+    { "text": "Gameleira", "key": 3399132, "value": 3399132
+    },
+    { "text": "Fortaleza", "key": 3399415, "value": 3399415
+    },
+    { "text": "Floriano", "key": 3399506, "value": 3399506
+    },
+    { "text": "Floresta", "key": 3399518, "value": 3399518
+    },
+    { "text": "Eusebio", "key": 3400558, "value": 3400558
+    },
+    { "text": "Extremoz", "key": 3400567, "value": 3400567
+    },
+    { "text": "Estreito", "key": 3400617, "value": 3400617
+    },
+    { "text": "Esperantina", "key": 3400740, "value": 3400740
+    },
+    { "text": "Esperanca", "key": 3400752, "value": 3400752
+    },
+    { "text": "Escada", "key": 3400804, "value": 3400804
+    },
+    { "text": "Dom Pedro", "key": 3400969, "value": 3400969
+    },
+    { "text": "Demerval Lobao", "key": 3401106, "value": 3401106
+    },
+    { "text": "Delmiro Gouveia", "key": 3401109, "value": 3401109
+    },
+    { "text": "Custodia", "key": 3401138, "value": 3401138
+    },
+    { "text": "Cururupu", "key": 3401148, "value": 3401148
+    },
+    { "text": "Currais Novos", "key": 3401283, "value": 3401283
+    },
+    { "text": "Cupira", "key": 3401340, "value": 3401340
+    },
+    { "text": "Crato", "key": 3401545, "value": 3401545
+    },
+    { "text": "Crateus", "key": 3401548, "value": 3401548
+    },
+    { "text": "Coroata", "key": 3401703, "value": 3401703
+    },
+    { "text": "Condado", "key": 3401830, "value": 3401830
+    },
+    { "text": "Conceicao do Araguaia", "key": 3401845, "value": 3401845
+    },
+    { "text": "Colinas", "key": 3401963, "value": 3401963
+    },
+    { "text": "Coelho Neto", "key": 3401992, "value": 3401992
+    },
+    { "text": "Codo", "key": 3402000, "value": 3402000
+    },
+    { "text": "Chapadinha", "key": 3402229, "value": 3402229
+    },
+    { "text": "Cha Grande", "key": 3402271, "value": 3402271
+    },
+    { "text": "Ceara Mirim", "key": 3402360, "value": 3402360
+    },
+    { "text": "Caucaia", "key": 3402429, "value": 3402429
+    },
+    { "text": "Catole do Rocha", "key": 3402465, "value": 3402465
+    },
+    { "text": "Catende", "key": 3402528, "value": 3402528
+    },
+    { "text": "Castanhal", "key": 3402591, "value": 3402591
+    },
+    { "text": "Cascavel", "key": 3402613, "value": 3402613
+    },
+    { "text": "Caruaru", "key": 3402655, "value": 3402655
+    },
+    { "text": "Carpina", "key": 3402721, "value": 3402721
+    },
+    { "text": "Carolina", "key": 3402724, "value": 3402724
+    },
+    { "text": "Capitao Poco", "key": 3403127, "value": 3403127
+    },
+    { "text": "Capanema", "key": 3403208, "value": 3403208
+    },
+    { "text": "Caninde", "key": 3403353, "value": 3403353
+    },
+    { "text": "Canguaretama", "key": 3403362, "value": 3403362
+    },
+    { "text": "Campos Sales", "key": 3403534, "value": 3403534
+    },
+    { "text": "Campo Maior", "key": 3403566, "value": 3403566
+    },
+    { "text": "Campo Alegre", "key": 3403611, "value": 3403611
+    },
+    { "text": "Campina Grande", "key": 3403642, "value": 3403642
+    },
+    { "text": "Camocim", "key": 3403687, "value": 3403687
+    },
+    { "text": "Cameta", "key": 3403697, "value": 3403697
+    },
+    { "text": "Cajueiro", "key": 3403941, "value": 3403941
+    },
+    { "text": "Cajazeiras", "key": 3404020, "value": 3404020
+    },
+    { "text": "Caico", "key": 3404117, "value": 3404117
+    },
+    { "text": "Cabrobo", "key": 3404513, "value": 3404513
+    },
+    { "text": "Cabo", "key": 3404545, "value": 3404545
+    },
+    { "text": "Cabedelo", "key": 3404558, "value": 3404558
+    },
+    { "text": "Buriti Bravo", "key": 3404722, "value": 3404722
+    },
+    { "text": "Buique", "key": 3404766, "value": 3404766
+    },
+    { "text": "Breves", "key": 3404817, "value": 3404817
+    },
+    { "text": "Brejo Santo", "key": 3404833, "value": 3404833
+    },
+    { "text": "Brejo da Madre de Deus", "key": 3404862, "value": 3404862
+    },
+    { "text": "Braganca", "key": 3405006, "value": 3405006
+    },
+    { "text": "Bom Conselho", "key": 3405380, "value": 3405380
+    },
+    { "text": "Boa Viagem", "key": 3405616, "value": 3405616
+    },
+    { "text": "Bezerros", "key": 3405738, "value": 3405738
+    },
+    { "text": "Benevides", "key": 3405792, "value": 3405792
+    },
+    { "text": "Belo Jardim", "key": 3405812, "value": 3405812
+    },
+    { "text": "Belem", "key": 3405863, "value": 3405863
+    },
+    { "text": "Belem", "key": 3405870, "value": 3405870
+    },
+    { "text": "Beberibe", "key": 3405924, "value": 3405924
+    },
+    { "text": "Bayeux", "key": 3405940, "value": 3405940
+    },
+    { "text": "Baturite", "key": 3405954, "value": 3405954
+    },
+    { "text": "Barreiros", "key": 3406160, "value": 3406160
+    },
+    { "text": "Barreirinhas", "key": 3406196, "value": 3406196
+    },
+    { "text": "Barras", "key": 3406263, "value": 3406263
+    },
+    { "text": "Barra do Corda", "key": 3406318, "value": 3406318
+    },
+    { "text": "Barcarena", "key": 3406429, "value": 3406429
+    },
+    { "text": "Barbalha", "key": 3406442, "value": 3406442
+    },
+    { "text": "Balsas", "key": 3406545, "value": 3406545
+    },
+    { "text": "Bacabal", "key": 3406910, "value": 3406910
+    },
+    { "text": "Augusto Correa", "key": 3406961, "value": 3406961
+    },
+    { "text": "Atalaia", "key": 3406996, "value": 3406996
+    },
+    { "text": "Areia Branca", "key": 3407194, "value": 3407194
+    },
+    { "text": "Arcoverde", "key": 3407216, "value": 3407216
+    },
+    { "text": "Araripina", "key": 3407243, "value": 3407243
+    },
+    { "text": "Arari", "key": 3407258, "value": 3407258
+    },
+    { "text": "Arapiraca", "key": 3407327, "value": 3407327
+    },
+    { "text": "Araguaina", "key": 3407357, "value": 3407357
+    },
+    { "text": "Aracati", "key": 3407378, "value": 3407378
+    },
+    { "text": "Aquiraz", "key": 3407407, "value": 3407407
+    },
+    { "text": "Apodi", "key": 3407440, "value": 3407440
+    },
+    { "text": "Ananindeua", "key": 3407669, "value": 3407669
+    },
+    { "text": "Amaraji", "key": 3407758, "value": 3407758
+    },
+    { "text": "Altos", "key": 3407797, "value": 3407797
+    },
+    { "text": "Altamira", "key": 3407882, "value": 3407882
+    },
+    { "text": "Almeirim", "key": 3407903, "value": 3407903
+    },
+    { "text": "Alenquer", "key": 3407980, "value": 3407980
+    },
+    { "text": "Alagoa Grande", "key": 3408100, "value": 3408100
+    },
+    { "text": "Aguas Belas", "key": 3408166, "value": 3408166
+    },
+    { "text": "Agua Preta", "key": 3408175, "value": 3408175
+    },
+    { "text": "Afogados da Ingazeira", "key": 3408274, "value": 3408274
+    },
+    { "text": "Acu", "key": 3408337, "value": 3408337
+    },
+    { "text": "Acopiara", "key": 3408343, "value": 3408343
+    },
+    { "text": "Acarau", "key": 3408368, "value": 3408368
+    },
+    { "text": "Abreu e Lima", "key": 3408404, "value": 3408404
+    },
+    { "text": "Abaetetuba", "key": 3408424, "value": 3408424
+    },
+    { "text": "Xique Xique", "key": 3444823, "value": 3444823
+    },
+    { "text": "Xanxere", "key": 3444848, "value": 3444848
+    },
+    { "text": "Votuporanga", "key": 3444864, "value": 3444864
+    },
+    { "text": "Votorantim", "key": 3444866, "value": 3444866
+    },
+    { "text": "Volta Redonda", "key": 3444876, "value": 3444876
+    },
+    { "text": "Vitoria da Conquista", "key": 3444914, "value": 3444914
+    },
+    { "text": "Vitoria", "key": 3444924, "value": 3444924
+    },
+    { "text": "Visconde do Rio Branco", "key": 3444969, "value": 3444969
+    },
+    { "text": "Viradouro", "key": 3444997, "value": 3444997
+    },
+    { "text": "Vinhedo", "key": 3445014, "value": 3445014
+    },
+    { "text": "Vila Velha", "key": 3445026, "value": 3445026
+    },
+    { "text": "Videira", "key": 3445126, "value": 3445126
+    },
+    { "text": "Vicosa", "key": 3445133, "value": 3445133
+    },
+    { "text": "Viana", "key": 3445153, "value": 3445153
+    },
+    { "text": "Viamao", "key": 3445156, "value": 3445156
+    },
+    { "text": "Vespasiano", "key": 3445162, "value": 3445162
+    },
+    { "text": "Veranopolis", "key": 3445299, "value": 3445299
+    },
+    { "text": "Vera Cruz", "key": 3445307, "value": 3445307
+    },
+    { "text": "Wenceslau Braz", "key": 3445348, "value": 3445348
+    },
+    { "text": "Venancio Aires", "key": 3445350, "value": 3445350
+    },
+    { "text": "Vazante", "key": 3445418, "value": 3445418
+    },
+    { "text": "Vassouras", "key": 3445433, "value": 3445433
+    },
+    { "text": "Varzea Paulista", "key": 3445446, "value": 3445446
+    },
+    { "text": "Varzea Grande", "key": 3445451, "value": 3445451
+    },
+    { "text": "Varzea da Palma", "key": 3445459, "value": 3445459
+    },
+    { "text": "Varginha", "key": 3445487, "value": 3445487
+    },
+    { "text": "Vargem Grande do Sul", "key": 3445500, "value": 3445500
+    },
+    { "text": "Valparaiso", "key": 3445575, "value": 3445575
+    },
+    { "text": "Valinhos", "key": 3445578, "value": 3445578
+    },
+    { "text": "Valenca", "key": 3445596, "value": 3445596
+    },
+    { "text": "Valenca", "key": 3445597, "value": 3445597
+    },
+    { "text": "Vacaria", "key": 3445630, "value": 3445630
+    },
+    { "text": "Uruguaiana", "key": 3445679, "value": 3445679
+    },
+    { "text": "Urucuca", "key": 3445690, "value": 3445690
+    },
+    { "text": "Uruacu", "key": 3445713, "value": 3445713
+    },
+    { "text": "Uniao da Vitoria", "key": 3445746, "value": 3445746
+    },
+    { "text": "Unai", "key": 3445764, "value": 3445764
+    },
+    { "text": "Una", "key": 3445781, "value": 3445781
+    },
+    { "text": "Umuarama", "key": 3445782, "value": 3445782
+    },
+    { "text": "Uberlandia", "key": 3445831, "value": 3445831
+    },
+    { "text": "Uberaba", "key": 3445839, "value": 3445839
+    },
+    { "text": "Ubatuba", "key": 3445847, "value": 3445847
+    },
+    { "text": "Ubata", "key": 3445849, "value": 3445849
+    },
+    { "text": "Ubaitaba", "key": 3445853, "value": 3445853
+    },
+    { "text": "Uba", "key": 3445859, "value": 3445859
+    },
+    { "text": "Tupancireta", "key": 3445939, "value": 3445939
+    },
+    { "text": "Tupaciguara", "key": 3445941, "value": 3445941
+    },
+    { "text": "Tupa", "key": 3445942, "value": 3445942
+    },
+    { "text": "Tucano", "key": 3445983, "value": 3445983
+    },
+    { "text": "Tubarao", "key": 3445993, "value": 3445993
+    },
+    { "text": "Trindade", "key": 3446038, "value": 3446038
+    },
+    { "text": "Tres Rios", "key": 3446065, "value": 3446065
+    },
+    { "text": "Tres Pontas", "key": 3446077, "value": 3446077
+    },
+    { "text": "Tres Passos", "key": 3446087, "value": 3446087
+    },
+    { "text": "Tres Lagoas", "key": 3446098, "value": 3446098
+    },
+    { "text": "Tres de Maio", "key": 3446130, "value": 3446130
+    },
+    { "text": "Tres Coroas", "key": 3446137, "value": 3446137
+    },
+    { "text": "Tres Coracoes", "key": 3446138, "value": 3446138
+    },
+    { "text": "Tremembe", "key": 3446194, "value": 3446194
+    },
+    { "text": "Tramandai", "key": 3446232, "value": 3446232
+    },
+    { "text": "Torres", "key": 3446295, "value": 3446295
+    },
+    { "text": "Toledo", "key": 3446370, "value": 3446370
+    },
+    { "text": "Tobias Barreto", "key": 3446400, "value": 3446400
+    },
+    { "text": "Timoteo", "key": 3446445, "value": 3446445
+    },
+    { "text": "Timbo", "key": 3446465, "value": 3446465
+    },
+    { "text": "Tijucas", "key": 3446500, "value": 3446500
+    },
+    { "text": "Tiete", "key": 3446539, "value": 3446539
+    },
+    { "text": "Teutonia", "key": 3446556, "value": 3446556
+    },
+    { "text": "Teresopolis", "key": 3446606, "value": 3446606
+    },
+    { "text": "Teofilo Otoni", "key": 3446621, "value": 3446621
+    },
+    { "text": "Teodoro Sampaio", "key": 3446625, "value": 3446625
+    },
+    { "text": "Telemaco Borba", "key": 3446652, "value": 3446652
+    },
+    { "text": "Taubate", "key": 3446682, "value": 3446682
+    },
+    { "text": "Tatui", "key": 3446692, "value": 3446692
+    },
+    { "text": "Taquarituba", "key": 3446752, "value": 3446752
+    },
+    { "text": "Taquaritinga", "key": 3446753, "value": 3446753
+    },
+    { "text": "Taquari", "key": 3446783, "value": 3446783
+    },
+    { "text": "Taquara", "key": 3446847, "value": 3446847
+    },
+    { "text": "Tapiramuta", "key": 3446866, "value": 3446866
+    },
+    { "text": "Tapes", "key": 3446880, "value": 3446880
+    },
+    { "text": "Tangua", "key": 3446974, "value": 3446974
+    },
+    { "text": "Tanabi", "key": 3446979, "value": 3446979
+    },
+    { "text": "Tambau", "key": 3447005, "value": 3447005
+    },
+    { "text": "Taiobeiras", "key": 3447059, "value": 3447059
+    },
+    { "text": "Taboao da Serra", "key": 3447186, "value": 3447186
+    },
+    { "text": "Suzano", "key": 3447212, "value": 3447212
+    },
+    { "text": "Sumare", "key": 3447259, "value": 3447259
+    },
+    { "text": "Sorocaba", "key": 3447399, "value": 3447399
+    },
+    { "text": "Soledade", "key": 3447423, "value": 3447423
+    },
+    { "text": "Socorro", "key": 3447437, "value": 3447437
+    },
+    { "text": "Sobradinho", "key": 3447473, "value": 3447473
+    },
+    { "text": "Simao Dias", "key": 3447562, "value": 3447562
+    },
+    { "text": "Silva Jardim", "key": 3447591, "value": 3447591
+    },
+    { "text": "Sidrolandia", "key": 3447597, "value": 3447597
+    },
+    { "text": "Sete Lagoas", "key": 3447624, "value": 3447624
+    },
+    { "text": "Sertaozinho", "key": 3447651, "value": 3447651
+    },
+    { "text": "Serrinha", "key": 3447690, "value": 3447690
+    },
+    { "text": "Serra Negra", "key": 3447718, "value": 3447718
+    },
+    { "text": "Serrana", "key": 3447720, "value": 3447720
+    },
+    { "text": "Serra", "key": 3447779, "value": 3447779
+    },
+    { "text": "Seropedica", "key": 3447785, "value": 3447785
+    },
+    { "text": "Senhor do Bonfim", "key": 3447839, "value": 3447839
+    },
+    { "text": "Senador Canedo", "key": 3447854, "value": 3447854
+    },
+    { "text": "Seabra", "key": 3447928, "value": 3447928
+    },
+    { "text": "Schroeder", "key": 3447929, "value": 3447929
+    },
+    { "text": "Saubara", "key": 3447961, "value": 3447961
+    },
+    { "text": "Sarzedo", "key": 3447969, "value": 3447969
+    },
+    { "text": "Sarandi", "key": 3447997, "value": 3447997
+    },
+    { "text": "Sarandi", "key": 3447998, "value": 3447998
+    },
+    { "text": "Saquarema", "key": 3448011, "value": 3448011
+    },
+    { "text": "Sapucaia", "key": 3448031, "value": 3448031
+    },
+    { "text": "Sapiranga", "key": 3448063, "value": 3448063
+    },
+    { "text": "Sao Vicente", "key": 3448136, "value": 3448136
+    },
+    { "text": "Sao Sepe", "key": 3448207, "value": 3448207
+    },
+    { "text": "Sao Sebastiao do Passe", "key": 3448219, "value": 3448219
+    },
+    { "text": "Sao Sebastiao do Paraiso",
+  "key": 3448221,
+  "value": 3448221
+    },
+    { "text": "Sao Sebastiao do Cai", "key": 3448227, "value": 3448227
+    },
+    { "text": "Sao Sebastiao", "key": 3448257, "value": 3448257
+    },
+    { "text": "Sao Roque", "key": 3448300, "value": 3448300
+    },
+    { "text": "Sao Pedro da Aldeia", "key": 3448351, "value": 3448351
+    },
+    { "text": "Sao Pedro", "key": 3448403, "value": 3448403
+    },
+    { "text": "Sao Paulo", "key": 3448439, "value": 3448439
+    },
+    { "text": "Sao Miguel do Iguacu", "key": 3448453, "value": 3448453
+    },
+    { "text": "Sao Miguel do Araguaia", "key": 3448455, "value": 3448455
+    },
+    { "text": "Sao Mateus do Sul", "key": 3448502, "value": 3448502
+    },
+    { "text": "Sao Mateus", "key": 3448519, "value": 3448519
+    },
+    { "text": "Sao Marcos", "key": 3448533, "value": 3448533
+    },
+    { "text": "Sao Manuel", "key": 3448545, "value": 3448545
+    },
+    { "text": "Sao Luiz Gonzaga", "key": 3448552, "value": 3448552
+    },
+    { "text": "Sao Luis de Montes Belos",
+  "key": 3448558,
+  "value": 3448558
+    },
+    { "text": "Sao Lourenco do Sul", "key": 3448596, "value": 3448596
+    },
+    { "text": "Sao Lourenco", "key": 3448616, "value": 3448616
+    },
+    { "text": "Sao Leopoldo", "key": 3448622, "value": 3448622
+    },
+    { "text": "Sao Jose dos Pinhais", "key": 3448632, "value": 3448632
+    },
+    { "text": "Sao Jose dos Campos", "key": 3448636, "value": 3448636
+    },
+    { "text": "Sao Jose do Rio Preto", "key": 3448639, "value": 3448639
+    },
+    { "text": "Sao Jose do Rio Pardo", "key": 3448640, "value": 3448640
+    },
+    { "text": "Sao Jose", "key": 3448742, "value": 3448742
+    },
+    { "text": "Sao Joaquim da Barra", "key": 3448825, "value": 3448825
+    },
+    { "text": "Sao Joaquim", "key": 3448828, "value": 3448828
+    },
+    { "text": "Sao Joao Nepomuceno", "key": 3448846, "value": 3448846
+    },
+    { "text": "Sao Joao de Meriti", "key": 3448877, "value": 3448877
+    },
+    { "text": "Sao Joao del Rei", "key": 3448879, "value": 3448879
+    },
+    { "text": "Sao Joao da Boa Vista", "key": 3448902, "value": 3448902
+    },
+    { "text": "Sao Joao da Barra", "key": 3448903, "value": 3448903
+    },
+    { "text": "Sao Jeronimo", "key": 3449045, "value": 3449045
+    },
+    { "text": "Sao Gotardo", "key": 3449053, "value": 3449053
+    },
+    { "text": "Sao Goncalo do Sapucai", "key": 3449056, "value": 3449056
+    },
+    { "text": "Sao Gabriel", "key": 3449099, "value": 3449099
+    },
+    { "text": "Sao Francisco do Sul", "key": 3449112, "value": 3449112
+    },
+    { "text": "Sao Francisco do Conde", "key": 3449116, "value": 3449116
+    },
+    { "text": "Sao Francisco", "key": 3449176, "value": 3449176
+    },
+    { "text": "Sao Fidelis", "key": 3449195, "value": 3449195
+    },
+    { "text": "Sao Cristovao", "key": 3449310, "value": 3449310
+    },
+    { "text": "Sao Carlos", "key": 3449319, "value": 3449319
+    },
+    { "text": "Sao Caetano do Sul", "key": 3449324, "value": 3449324
+    },
+    { "text": "Sao Borja", "key": 3449340, "value": 3449340
+    },
+    { "text": "Sao Bernardo do Campo", "key": 3449344, "value": 3449344
+    },
+    { "text": "Sao Bento do Sul", "key": 3449350, "value": 3449350
+    },
+    { "text": "Santos Dumont", "key": 3449427, "value": 3449427
+    },
+    { "text": "Santos", "key": 3449433, "value": 3449433
+    },
+    { "text": "Santo Estevao", "key": 3449467, "value": 3449467
+    },
+    { "text": "Santo Antonio do Monte", "key": 3449500, "value": 3449500
+    },
+    { "text": "Santo Antonio do Amparo", "key": 3449516, "value": 3449516
+    },
+    { "text": "Santo Antonio de Posse", "key": 3449518, "value": 3449518
+    },
+    { "text": "Santo Antonio de Padua", "key": 3449519, "value": 3449519
+    },
+    { "text": "Santo Antonio de Jesus", "key": 3449521, "value": 3449521
+    },
+    { "text": "Santo Antonio da Platina",
+  "key": 3449529,
+  "value": 3449529
+    },
+    { "text": "Santo Angelo", "key": 3449696, "value": 3449696
+    },
+    { "text": "Santo Andre", "key": 3449701, "value": 3449701
+    },
+    { "text": "Santo Anastacio", "key": 3449707, "value": 3449707
+    },
+    { "text": "Santo Amaro da Imperatriz",
+  "key": 3449711,
+  "value": 3449711
+    },
+    { "text": "Santo Amaro", "key": 3449720, "value": 3449720
+    },
+    { "text": "Santiago", "key": 3449741, "value": 3449741
+    },
+    { "text": "Santa Vitoria do Palmar", "key": 3449747, "value": 3449747
+    },
+    { "text": "Santa Rosa de Viterbo", "key": 3449793, "value": 3449793
+    },
+    { "text": "Santa Rosa", "key": 3449822, "value": 3449822
+    },
+    { "text": "Santa Rita do Sapucai", "key": 3449847, "value": 3449847
+    },
+    { "text": "Santa Rita do Passa Quatro",
+  "key": 3449851,
+  "value": 3449851
+    },
+    { "text": "Santana do Paraiso", "key": 3449933, "value": 3449933
+    },
+    { "text": "Santana do Livramento", "key": 3449936, "value": 3449936
+    },
+    { "text": "Santana de Parnaiba", "key": 3449948, "value": 3449948
+    },
+    { "text": "Santa Maria da Vitoria", "key": 3450063, "value": 3450063
+    },
+    { "text": "Santa Maria", "key": 3450083, "value": 3450083
+    },
+    { "text": "Santa Luzia", "key": 3450144, "value": 3450144
+    },
+    { "text": "Santaluz", "key": 3450157, "value": 3450157
+    },
+    { "text": "Santa Isabel", "key": 3450188, "value": 3450188
+    },
+    { "text": "Santa Helena de Goias", "key": 3450206, "value": 3450206
+    },
+    { "text": "Santa Gertrudes", "key": 3450225, "value": 3450225
+    },
+    { "text": "Santa Fe do Sul", "key": 3450232, "value": 3450232
+    },
+    { "text": "Santa Cruz do Sul", "key": 3450269, "value": 3450269
+    },
+    { "text": "Santa Cruz do Rio Pardo", "key": 3450272, "value": 3450272
+    },
+    { "text": "Santa Cruz das Palmeiras",
+  "key": 3450283,
+  "value": 3450283
+    },
+    { "text": "Santa Cruz Cabralia", "key": 3450288, "value": 3450288
+    },
+    { "text": "Santa Cecilia", "key": 3450376, "value": 3450376
+    },
+    { "text": "Santa Barbara dOeste", "key": 3450404, "value": 3450404
+    },
+    { "text": "Salvador", "key": 3450554, "value": 3450554
+    },
+    { "text": "Salto de Pirapora", "key": 3450563, "value": 3450563
+    },
+    { "text": "Salto", "key": 3450594, "value": 3450594
+    },
+    { "text": "Salinas", "key": 3450671, "value": 3450671
+    },
+    { "text": "Sacramento", "key": 3450759, "value": 3450759
+    },
+    { "text": "Ruy Barbosa", "key": 3450832, "value": 3450832
+    },
+    { "text": "Rubiataba", "key": 3450843, "value": 3450843
+    },
+    { "text": "Rosario do Sul", "key": 3450873, "value": 3450873
+    },
+    { "text": "Rondonopolis", "key": 3450909, "value": 3450909
+    },
+    { "text": "Rolante", "key": 3450963, "value": 3450963
+    },
+    { "text": "Rolandia", "key": 3450964, "value": 3450964
+    },
+    { "text": "Rio Verde de Mato Grosso",
+  "key": 3451051,
+  "value": 3451051
+    },
+    { "text": "Rio Real", "key": 3451071, "value": 3451071
+    },
+    { "text": "Rio Pardo", "key": 3451102, "value": 3451102
+    },
+    { "text": "Rio Negrinho", "key": 3451124, "value": 3451124
+    },
+    { "text": "Rio Grande da Serra", "key": 3451134, "value": 3451134
+    },
+    { "text": "Rio Grande", "key": 3451138, "value": 3451138
+    },
+    { "text": "Rio do Sul", "key": 3451152, "value": 3451152
+    },
+    { "text": "Rio de Janeiro", "key": 3451190, "value": 3451190
+    },
+    { "text": "Rio das Pedras", "key": 3451202, "value": 3451202
+    },
+    { "text": "Rio das Ostras", "key": 3451205, "value": 3451205
+    },
+    { "text": "Rio Claro", "key": 3451234, "value": 3451234
+    },
+    { "text": "Rio Brilhante", "key": 3451241, "value": 3451241
+    },
+    { "text": "Rio Branco do Sul", "key": 3451242, "value": 3451242
+    },
+    { "text": "Rio Bonito", "key": 3451261, "value": 3451261
+    },
+    { "text": "Ribeirao Preto", "key": 3451328, "value": 3451328
+    },
+    { "text": "Ribeirao Pires", "key": 3451329, "value": 3451329
+    },
+    { "text": "Ribeirao das Neves", "key": 3451353, "value": 3451353
+    },
+    { "text": "Ribeirao da Ilha", "key": 3451357, "value": 3451357
+    },
+    { "text": "Ribeira do Pombal", "key": 3451383, "value": 3451383
+    },
+    { "text": "Riachao do Jacuipe", "key": 3451474, "value": 3451474
+    },
+    { "text": "Resplendor", "key": 3451650, "value": 3451650
+    },
+    { "text": "Resende", "key": 3451668, "value": 3451668
+    },
+    { "text": "Registro", "key": 3451704, "value": 3451704
+    },
+    { "text": "Regente Feijo", "key": 3451709, "value": 3451709
+    },
+    { "text": "Rancharia", "key": 3451856, "value": 3451856
+    },
+    { "text": "Quirinopolis", "key": 3451931, "value": 3451931
+    },
+    { "text": "Queimados", "key": 3452073, "value": 3452073
+    },
+    { "text": "Quatro Barras", "key": 3452141, "value": 3452141
+    },
+    { "text": "Quarai", "key": 3452179, "value": 3452179
+    },
+    { "text": "Prudentopolis", "key": 3452216, "value": 3452216
+    },
+    { "text": "Propria", "key": 3452233, "value": 3452233
+    },
+    { "text": "Promissao", "key": 3452237, "value": 3452237
+    },
+    { "text": "Presidente Venceslau", "key": 3452320, "value": 3452320
+    },
+    { "text": "Presidente Prudente", "key": 3452324, "value": 3452324
+    },
+    { "text": "Presidente Epitacio", "key": 3452331, "value": 3452331
+    },
+    { "text": "Prata", "key": 3452440, "value": 3452440
+    },
+    { "text": "Praia Grande", "key": 3452465, "value": 3452465
+    },
+    { "text": "Prado", "key": 3452483, "value": 3452483
+    },
+    { "text": "Pouso Alegre", "key": 3452525, "value": 3452525
+    },
+    { "text": "Posse", "key": 3452599, "value": 3452599
+    },
+    { "text": "Porto Uniao", "key": 3452623, "value": 3452623
+    },
+    { "text": "Porto Seguro", "key": 3452640, "value": 3452640
+    },
+    { "text": "Porto Ferreira", "key": 3452775, "value": 3452775
+    },
+    { "text": "Porto Feliz", "key": 3452779, "value": 3452779
+    },
+    { "text": "Porto Alegre", "key": 3452925, "value": 3452925
+    },
+    { "text": "Portao", "key": 3452982, "value": 3452982
+    },
+    { "text": "Porangatu", "key": 3453014, "value": 3453014
+    },
+    { "text": "Pontes e Lacerda", "key": 3453060, "value": 3453060
+    },
+    { "text": "Ponte Nova", "key": 3453078, "value": 3453078
+    },
+    { "text": "Ponta Pora", "key": 3453150, "value": 3453150
+    },
+    { "text": "Pontal", "key": 3453171, "value": 3453171
+    },
+    { "text": "Ponta Grossa", "key": 3453186, "value": 3453186
+    },
+    { "text": "Pompeu", "key": 3453240, "value": 3453240
+    },
+    { "text": "Pompeia", "key": 3453242, "value": 3453242
+    },
+    { "text": "Pomerode", "key": 3453245, "value": 3453245
+    },
+    { "text": "Pocos de Caldas", "key": 3453303, "value": 3453303
+    },
+    { "text": "Pocone", "key": 3453315, "value": 3453315
+    },
+    { "text": "Pocoes", "key": 3453337, "value": 3453337
+    },
+    { "text": "Poa", "key": 3453406, "value": 3453406
+    },
+    { "text": "Planaltina", "key": 3453420, "value": 3453420
+    },
+    { "text": "Piuma", "key": 3453435, "value": 3453435
+    },
+    { "text": "Piui", "key": 3453439, "value": 3453439
+    },
+    { "text": "Pitangui", "key": 3453457, "value": 3453457
+    },
+    { "text": "Pitangueiras", "key": 3453467, "value": 3453467
+    },
+    { "text": "Pitanga", "key": 3453478, "value": 3453478
+    },
+    { "text": "Piritiba", "key": 3453494, "value": 3453494
+    },
+    { "text": "Pires do Rio", "key": 3453503, "value": 3453503
+    },
+    { "text": "Piraquara", "key": 3453535, "value": 3453535
+    },
+    { "text": "Pirapozinho", "key": 3453542, "value": 3453542
+    },
+    { "text": "Pirapora", "key": 3453546, "value": 3453546
+    },
+    { "text": "Pirajui", "key": 3453605, "value": 3453605
+    },
+    { "text": "Piraju", "key": 3453610, "value": 3453610
+    },
+    { "text": "Pirai do Sul", "key": 3453622, "value": 3453622
+    },
+    { "text": "Pirai", "key": 3453635, "value": 3453635
+    },
+    { "text": "Pirassununga", "key": 3453639, "value": 3453639
+    },
+    { "text": "Piracicaba", "key": 3453643, "value": 3453643
+    },
+    { "text": "Piracanjuba", "key": 3453659, "value": 3453659
+    },
+    { "text": "Piracaia", "key": 3453661, "value": 3453661
+    },
+    { "text": "Pinheiral", "key": 3453767, "value": 3453767
+    },
+    { "text": "Pinhao", "key": 3453777, "value": 3453777
+    },
+    { "text": "Espirito Santo do Pinhal",
+  "key": 3453807,
+  "value": 3453807
+    },
+    { "text": "Pindobacu", "key": 3453827, "value": 3453827
+    },
+    { "text": "Pindamonhangaba", "key": 3453837, "value": 3453837
+    },
+    { "text": "Pilar do Sul", "key": 3453896, "value": 3453896
+    },
+    { "text": "Piedade", "key": 3453926, "value": 3453926
+    },
+    { "text": "Petropolis", "key": 3454031, "value": 3454031
+    },
+    { "text": "Peruibe", "key": 3454061, "value": 3454061
+    },
+    { "text": "Pereira Barreto", "key": 3454131, "value": 3454131
+    },
+    { "text": "Perdoes", "key": 3454139, "value": 3454139
+    },
+    { "text": "Penha", "key": 3454213, "value": 3454213
+    },
+    { "text": "Penedo", "key": 3454231, "value": 3454231
+    },
+    { "text": "Penapolis", "key": 3454235, "value": 3454235
+    },
+    { "text": "Pelotas", "key": 3454244, "value": 3454244
+    },
+    { "text": "Pedro Leopoldo", "key": 3454358, "value": 3454358
+    },
+    { "text": "Pedreira", "key": 3454407, "value": 3454407
+    },
+    { "text": "Pedra Azul", "key": 3454578, "value": 3454578
+    },
+    { "text": "Pederneiras", "key": 3454620, "value": 3454620
+    },
+    { "text": "Paulinia", "key": 3454690, "value": 3454690
+    },
+    { "text": "Patrocinio", "key": 3454763, "value": 3454763
+    },
+    { "text": "Patos de Minas", "key": 3454783, "value": 3454783
+    },
+    { "text": "Pato Branco", "key": 3454818, "value": 3454818
+    },
+    { "text": "Paty do Alferes", "key": 3454827, "value": 3454827
+    },
+    { "text": "Passos", "key": 3454847, "value": 3454847
+    },
+    { "text": "Passo Fundo", "key": 3454857, "value": 3454857
+    },
+    { "text": "Parobe", "key": 3454954, "value": 3454954
+    },
+    { "text": "Parati", "key": 3455036, "value": 3455036
+    },
+    { "text": "Paranavai", "key": 3455051, "value": 3455051
+    },
+    { "text": "Paranapanema", "key": 3455061, "value": 3455061
+    },
+    { "text": "Paranaiba", "key": 3455065, "value": 3455065
+    },
+    { "text": "Paranagua", "key": 3455070, "value": 3455070
+    },
+    { "text": "Paraiba do Sul", "key": 3455141, "value": 3455141
+    },
+    { "text": "Paraguacu Paulista", "key": 3455152, "value": 3455152
+    },
+    { "text": "Paraguacu", "key": 3455155, "value": 3455155
+    },
+    { "text": "Para de Minas", "key": 3455161, "value": 3455161
+    },
+    { "text": "Paracatu", "key": 3455168, "value": 3455168
+    },
+    { "text": "Paracambi", "key": 3455170, "value": 3455170
+    },
+    { "text": "Panambi", "key": 3455281, "value": 3455281
+    },
+    { "text": "Palotina", "key": 3455298, "value": 3455298
+    },
+    { "text": "Palmital", "key": 3455342, "value": 3455342
+    },
+    { "text": "Palmeira das Missoes", "key": 3455416, "value": 3455416
+    },
+    { "text": "Palmeira", "key": 3455425, "value": 3455425
+    },
+    { "text": "Palmas", "key": 3455459, "value": 3455459
+    },
+    { "text": "Palhoca", "key": 3455478, "value": 3455478
+    },
+    { "text": "Paicandu", "key": 3455553, "value": 3455553
+    },
+    { "text": "Padre Bernardo", "key": 3455580, "value": 3455580
+    },
+    { "text": "Ouro Preto", "key": 3455671, "value": 3455671
+    },
+    { "text": "Ouro Branco", "key": 3455689, "value": 3455689
+    },
+    { "text": "Ourinhos", "key": 3455729, "value": 3455729
+    },
+    { "text": "Osvaldo Cruz", "key": 3455756, "value": 3455756
+    },
+    { "text": "Osorio", "key": 3455769, "value": 3455769
+    },
+    { "text": "Osasco", "key": 3455775, "value": 3455775
+    },
+    { "text": "Orleans", "key": 3455784, "value": 3455784
+    },
+    { "text": "Orlandia", "key": 3455785, "value": 3455785
+    },
+    { "text": "Oliveira", "key": 3455908, "value": 3455908
+    },
+    { "text": "Olimpia", "key": 3455923, "value": 3455923
+    },
+    { "text": "Novo Horizonte", "key": 3456060, "value": 3456060
+    },
+    { "text": "Novo Hamburgo", "key": 3456068, "value": 3456068
+    },
+    { "text": "Nova Vicosa", "key": 3456102, "value": 3456102
+    },
+    { "text": "Nova Venecia", "key": 3456110, "value": 3456110
+    },
+    { "text": "Nova Prata", "key": 3456125, "value": 3456125
+    },
+    { "text": "Nova Petropolis", "key": 3456127, "value": 3456127
+    },
+    { "text": "Nova Olimpia", "key": 3456137, "value": 3456137
+    },
+    { "text": "Nova Odessa", "key": 3456138, "value": 3456138
+    },
+    { "text": "Nova Lima", "key": 3456147, "value": 3456147
+    },
+    { "text": "Nova Iguacu", "key": 3456160, "value": 3456160
+    },
+    { "text": "Nova Granada", "key": 3456164, "value": 3456164
+    },
+    { "text": "Nova Friburgo", "key": 3456166, "value": 3456166
+    },
+    { "text": "Nova Era", "key": 3456176, "value": 3456176
+    },
+    { "text": "Nossa Senhora do Socorro",
+  "key": 3456223,
+  "value": 3456223
+    },
+    { "text": "Nossa Senhora da Gloria", "key": 3456240, "value": 3456240
+    },
+    { "text": "Niteroi", "key": 3456283, "value": 3456283
+    },
+    { "text": "Niquelandia", "key": 3456285, "value": 3456285
+    },
+    { "text": "Nilopolis", "key": 3456290, "value": 3456290
+    },
+    { "text": "Neropolis", "key": 3456322, "value": 3456322
+    },
+    { "text": "Nepomuceno", "key": 3456324, "value": 3456324
+    },
+    { "text": "Nazare", "key": 3456366, "value": 3456366
+    },
+    { "text": "Navirai", "key": 3456368, "value": 3456368
+    },
+    { "text": "Navegantes", "key": 3456370, "value": 3456370
+    },
+    { "text": "Nanuque", "key": 3456398, "value": 3456398
+    },
+    { "text": "Muzambinho", "key": 3456412, "value": 3456412
+    },
+    { "text": "Muritiba", "key": 3456483, "value": 3456483
+    },
+    { "text": "Muriae", "key": 3456500, "value": 3456500
+    },
+    { "text": "Mucuri", "key": 3456593, "value": 3456593
+    },
+    { "text": "Morro do Chapeu", "key": 3456696, "value": 3456696
+    },
+    { "text": "Morro Agudo", "key": 3456724, "value": 3456724
+    },
+    { "text": "Morrinhos", "key": 3456735, "value": 3456735
+    },
+    { "text": "Montes Claros", "key": 3456814, "value": 3456814
+    },
+    { "text": "Monte Santo de Minas", "key": 3456816, "value": 3456816
+    },
+    { "text": "Monte Mor", "key": 3456827, "value": 3456827
+    },
+    { "text": "Monte Carmelo", "key": 3456848, "value": 3456848
+    },
+    { "text": "Monte Azul Paulista", "key": 3456863, "value": 3456863
+    },
+    { "text": "Monte Aprazivel", "key": 3456866, "value": 3456866
+    },
+    { "text": "Monte Alto", "key": 3456873, "value": 3456873
+    },
+    { "text": "Mongagua", "key": 3456944, "value": 3456944
+    },
+    { "text": "Mogi Mirim", "key": 3456998, "value": 3456998
+    },
+    { "text": "Mogi Guacu", "key": 3457000, "value": 3457000
+    },
+    { "text": "Mogi das Cruzes", "key": 3457001, "value": 3457001
+    },
+    { "text": "Mococa", "key": 3457025, "value": 3457025
+    },
+    { "text": "Mirandopolis", "key": 3457107, "value": 3457107
+    },
+    { "text": "Miracema", "key": 3457133, "value": 3457133
+    },
+    { "text": "Mineiros", "key": 3457147, "value": 3457147
+    },
+    { "text": "Miguel Pereira", "key": 3457191, "value": 3457191
+    },
+    { "text": "Miguelopolis", "key": 3457192, "value": 3457192
+    },
+    { "text": "Mendes", "key": 3457247, "value": 3457247
+    },
+    { "text": "Medianeira", "key": 3457359, "value": 3457359
+    },
+    { "text": "Medeiros Neto", "key": 3457360, "value": 3457360
+    },
+    { "text": "Maua", "key": 3457381, "value": 3457381
+    },
+    { "text": "Matozinhos", "key": 3457393, "value": 3457393
+    },
+    { "text": "Mateus Leme", "key": 3457484, "value": 3457484
+    },
+    { "text": "Matao", "key": 3457509, "value": 3457509
+    },
+    { "text": "Mata de Sao Joao", "key": 3457528, "value": 3457528
+    },
+    { "text": "Mascote", "key": 3457566, "value": 3457566
+    },
+    { "text": "Martinopolis", "key": 3457595, "value": 3457595
+    },
+    { "text": "Maringa", "key": 3457671, "value": 3457671
+    },
+    { "text": "Marilia", "key": 3457692, "value": 3457692
+    },
+    { "text": "Marica", "key": 3457708, "value": 3457708
+    },
+    { "text": "Mariana", "key": 3457736, "value": 3457736
+    },
+    { "text": "Marialva", "key": 3457741, "value": 3457741
+    },
+    { "text": "Marechal Candido Rondon", "key": 3457772, "value": 3457772
+    },
+    { "text": "Marau", "key": 3457817, "value": 3457817
+    },
+    { "text": "Marataizes", "key": 3457819, "value": 3457819
+    },
+    { "text": "Maragogipe", "key": 3457850, "value": 3457850
+    },
+    { "text": "Maracas", "key": 3457854, "value": 3457854
+    },
+    { "text": "Maracaju", "key": 3457859, "value": 3457859
+    },
+    { "text": "Manhumirim", "key": 3457950, "value": 3457950
+    },
+    { "text": "Manhuacu", "key": 3457952, "value": 3457952
+    },
+    { "text": "Mangaratiba", "key": 3457991, "value": 3457991
+    },
+    { "text": "Mandaguari", "key": 3458049, "value": 3458049
+    },
+    { "text": "Mairipora", "key": 3458131, "value": 3458131
+    },
+    { "text": "Mairinque", "key": 3458132, "value": 3458132
+    },
+    { "text": "Mafra", "key": 3458147, "value": 3458147
+    },
+    { "text": "Machado", "key": 3458211, "value": 3458211
+    },
+    { "text": "Macatuba", "key": 3458245, "value": 3458245
+    },
+    { "text": "Macae", "key": 3458266, "value": 3458266
+    },
+    { "text": "Luziania", "key": 3458329, "value": 3458329
+    },
+    { "text": "Lucas", "key": 3458397, "value": 3458397
+    },
+    { "text": "Louveira", "key": 3458406, "value": 3458406
+    },
+    { "text": "Lorena", "key": 3458425, "value": 3458425
+    },
+    { "text": "Londrina", "key": 3458449, "value": 3458449
+    },
+    { "text": "Loanda", "key": 3458479, "value": 3458479
+    },
+    { "text": "Livramento do Brumado", "key": 3458481, "value": 3458481
+    },
+    { "text": "Lins", "key": 3458494, "value": 3458494
+    },
+    { "text": "Linhares", "key": 3458498, "value": 3458498
+    },
+    { "text": "Limeira", "key": 3458575, "value": 3458575
+    },
+    { "text": "Leopoldina", "key": 3458632, "value": 3458632
+    },
+    { "text": "Lencois Paulista", "key": 3458645, "value": 3458645
+    },
+    { "text": "Leme", "key": 3458662, "value": 3458662
+    },
+    { "text": "Lavras", "key": 3458696, "value": 3458696
+    },
+    { "text": "Laranjeiras do Sul", "key": 3458746, "value": 3458746
+    },
+    { "text": "Laranjeiras", "key": 3458778, "value": 3458778
+    },
+    { "text": "Laranjal Paulista", "key": 3458786, "value": 3458786
+    },
+    { "text": "Lapa", "key": 3458826, "value": 3458826
+    },
+    { "text": "Lajinha", "key": 3458902, "value": 3458902
+    },
+    { "text": "Lages", "key": 3458930, "value": 3458930
+    },
+    { "text": "Lajeado", "key": 3459035, "value": 3459035
+    },
+    { "text": "Laguna", "key": 3459094, "value": 3459094
+    },
+    { "text": "Lagoa Vermelha", "key": 3459126, "value": 3459126
+    },
+    { "text": "Lagoa Santa", "key": 3459138, "value": 3459138
+    },
+    { "text": "Lagoa da Prata", "key": 3459251, "value": 3459251
+    },
+    { "text": "Lagarto", "key": 3459342, "value": 3459342
+    },
+    { "text": "Ladario", "key": 3459352, "value": 3459352
+    },
+    { "text": "Jundiai", "key": 3459462, "value": 3459462
+    },
+    { "text": "Julio de Castilhos", "key": 3459495, "value": 3459495
+    },
+    { "text": "Juiz de Fora", "key": 3459505, "value": 3459505
+    },
+    { "text": "Juatuba", "key": 3459550, "value": 3459550
+    },
+    { "text": "Jose Bonifacio", "key": 3459667, "value": 3459667
+    },
+    { "text": "Joinville", "key": 3459712, "value": 3459712
+    },
+    { "text": "Joao Pinheiro", "key": 3459785, "value": 3459785
+    },
+    { "text": "Joao Monlevade", "key": 3459796, "value": 3459796
+    },
+    { "text": "Joacaba", "key": 3459869, "value": 3459869
+    },
+    { "text": "Jeremoabo", "key": 3459922, "value": 3459922
+    },
+    { "text": "Jequitinhonha", "key": 3459925, "value": 3459925
+    },
+    { "text": "Jequie", "key": 3459943, "value": 3459943
+    },
+    { "text": "Jau", "key": 3460005, "value": 3460005
+    },
+    { "text": "Jatai", "key": 3460064, "value": 3460064
+    },
+    { "text": "Jarinu", "key": 3460068, "value": 3460068
+    },
+    { "text": "Jardinopolis", "key": 3460071, "value": 3460071
+    },
+    { "text": "Jardim", "key": 3460087, "value": 3460087
+    },
+    { "text": "Jaragua do Sul", "key": 3460102, "value": 3460102
+    },
+    { "text": "Jaragua", "key": 3460107, "value": 3460107
+    },
+    { "text": "Japeri", "key": 3460132, "value": 3460132
+    },
+    { "text": "Januaria", "key": 3460148, "value": 3460148
+    },
+    { "text": "Jandira", "key": 3460170, "value": 3460170
+    },
+    { "text": "Jandaia do Sul", "key": 3460172, "value": 3460172
+    },
+    { "text": "Janauba", "key": 3460174, "value": 3460174
+    },
+    { "text": "Jales", "key": 3460186, "value": 3460186
+    },
+    { "text": "Jaguariuna", "key": 3460200, "value": 3460200
+    },
+    { "text": "Jaguariaiva", "key": 3460214, "value": 3460214
+    },
+    { "text": "Jaguarari", "key": 3460225, "value": 3460225
+    },
+    { "text": "Jaguarao", "key": 3460232, "value": 3460232
+    },
+    { "text": "Jaguaquara", "key": 3460242, "value": 3460242
+    },
+    { "text": "Jacutinga", "key": 3460267, "value": 3460267
+    },
+    { "text": "Jacobina", "key": 3460344, "value": 3460344
+    },
+    { "text": "Jaciara", "key": 3460355, "value": 3460355
+    },
+    { "text": "Jacarezinho", "key": 3460362, "value": 3460362
+    },
+    { "text": "Jacarei", "key": 3460370, "value": 3460370
+    },
+    { "text": "Jaboticabal", "key": 3460441, "value": 3460441
+    },
+    { "text": "Ivoti", "key": 3460484, "value": 3460484
+    },
+    { "text": "Ituverava", "key": 3460511, "value": 3460511
+    },
+    { "text": "Iturama", "key": 3460513, "value": 3460513
+    },
+    { "text": "Itupeva", "key": 3460516, "value": 3460516
+    },
+    { "text": "Itumbiara", "key": 3460522, "value": 3460522
+    },
+    { "text": "Ituiutaba", "key": 3460523, "value": 3460523
+    },
+    { "text": "Itubera", "key": 3460530, "value": 3460530
+    },
+    { "text": "Itu", "key": 3460535, "value": 3460535
+    },
+    { "text": "Itororo", "key": 3460542, "value": 3460542
+    },
+    { "text": "Itauna", "key": 3460584, "value": 3460584
+    },
+    { "text": "Itatinga", "key": 3460594, "value": 3460594
+    },
+    { "text": "Itatiba", "key": 3460598, "value": 3460598
+    },
+    { "text": "Itarare", "key": 3460620, "value": 3460620
+    },
+    { "text": "Itaqui", "key": 3460629, "value": 3460629
+    },
+    { "text": "Itaquaquecetuba", "key": 3460644, "value": 3460644
+    },
+    { "text": "Itapuranga", "key": 3460648, "value": 3460648
+    },
+    { "text": "Itapolis", "key": 3460671, "value": 3460671
+    },
+    { "text": "Itapira", "key": 3460699, "value": 3460699
+    },
+    { "text": "Itapevi", "key": 3460718, "value": 3460718
+    },
+    { "text": "Itapeva", "key": 3460723, "value": 3460723
+    },
+    { "text": "Itapetininga", "key": 3460728, "value": 3460728
+    },
+    { "text": "Itapetinga", "key": 3460730, "value": 3460730
+    },
+    { "text": "Itaperuna", "key": 3460733, "value": 3460733
+    },
+    { "text": "Itaperucu", "key": 3460734, "value": 3460734
+    },
+    { "text": "Itapemirim", "key": 3460738, "value": 3460738
+    },
+    { "text": "Itapema", "key": 3460740, "value": 3460740
+    },
+    { "text": "Itapecerica da Serra", "key": 3460748, "value": 3460748
+    },
+    { "text": "Itapecerica", "key": 3460752, "value": 3460752
+    },
+    { "text": "Itaparica", "key": 3460764, "value": 3460764
+    },
+    { "text": "Itapaci", "key": 3460773, "value": 3460773
+    },
+    { "text": "Itaocara", "key": 3460774, "value": 3460774
+    },
+    { "text": "Itanhaem", "key": 3460791, "value": 3460791
+    },
+    { "text": "Itambe", "key": 3460813, "value": 3460813
+    },
+    { "text": "Itamarandiba", "key": 3460825, "value": 3460825
+    },
+    { "text": "Itamaraju", "key": 3460826, "value": 3460826
+    },
+    { "text": "Itajuipe", "key": 3460831, "value": 3460831
+    },
+    { "text": "Itajuba", "key": 3460834, "value": 3460834
+    },
+    { "text": "Itajai", "key": 3460845, "value": 3460845
+    },
+    { "text": "Itai", "key": 3460887, "value": 3460887
+    },
+    { "text": "Itaguai", "key": 3460899, "value": 3460899
+    },
+    { "text": "Itabuna", "key": 3460949, "value": 3460949
+    },
+    { "text": "Itaborai", "key": 3460950, "value": 3460950
+    },
+    { "text": "Itabirito", "key": 3460954, "value": 3460954
+    },
+    { "text": "Itabira", "key": 3460960, "value": 3460960
+    },
+    { "text": "Itaberai", "key": 3460963, "value": 3460963
+    },
+    { "text": "Itaberaba", "key": 3460966, "value": 3460966
+    },
+    { "text": "Itabaianinha", "key": 3460971, "value": 3460971
+    },
+    { "text": "Itabaiana", "key": 3460974, "value": 3460974
+    },
+    { "text": "Irece", "key": 3461013, "value": 3461013
+    },
+    { "text": "Irati", "key": 3461017, "value": 3461017
+    },
+    { "text": "Iracemapolis", "key": 3461055, "value": 3461055
+    },
+    { "text": "Ipora", "key": 3461090, "value": 3461090
+    },
+    { "text": "Ipira", "key": 3461124, "value": 3461124
+    },
+    { "text": "Ipiau", "key": 3461129, "value": 3461129
+    },
+    { "text": "Ipero", "key": 3461134, "value": 3461134
+    },
+    { "text": "Ipatinga", "key": 3461144, "value": 3461144
+    },
+    { "text": "Ipameri", "key": 3461151, "value": 3461151
+    },
+    { "text": "Ipaba", "key": 3461153, "value": 3461153
+    },
+    { "text": "Inhumas", "key": 3461194, "value": 3461194
+    },
+    { "text": "Indaiatuba", "key": 3461311, "value": 3461311
+    },
+    { "text": "Indaial", "key": 3461316, "value": 3461316
+    },
+    { "text": "Imbituva", "key": 3461368, "value": 3461368
+    },
+    { "text": "Imbituba", "key": 3461370, "value": 3461370
+    },
+    { "text": "Ilheus", "key": 3461408, "value": 3461408
+    },
+    { "text": "Ilha Solteira", "key": 3461411, "value": 3461411
+    },
+    { "text": "Ilhabela", "key": 3461425, "value": 3461425
+    },
+    { "text": "Ijui", "key": 3461444, "value": 3461444
+    },
+    { "text": "Iguape", "key": 3461465, "value": 3461465
+    },
+    { "text": "Igrejinha", "key": 3461481, "value": 3461481
+    },
+    { "text": "Igarape", "key": 3461498, "value": 3461498
+    },
+    { "text": "Igarapava", "key": 3461499, "value": 3461499
+    },
+    { "text": "Igaracu do Tiete", "key": 3461501, "value": 3461501
+    },
+    { "text": "Icara", "key": 3461519, "value": 3461519
+    },
+    { "text": "Ibotirama", "key": 3461525, "value": 3461525
+    },
+    { "text": "Ibiuna", "key": 3461528, "value": 3461528
+    },
+    { "text": "Ibitinga", "key": 3461550, "value": 3461550
+    },
+    { "text": "Ibirite", "key": 3461563, "value": 3461563
+    },
+    { "text": "Ibirataia", "key": 3461565, "value": 3461565
+    },
+    { "text": "Ibirama", "key": 3461576, "value": 3461576
+    },
+    { "text": "Ibipora", "key": 3461588, "value": 3461588
+    },
+    { "text": "Ibicarai", "key": 3461606, "value": 3461606
+    },
+    { "text": "Ibia", "key": 3461620, "value": 3461620
+    },
+    { "text": "Ibate", "key": 3461625, "value": 3461625
+    },
+    { "text": "Ibaiti", "key": 3461628, "value": 3461628
+    },
+    { "text": "Iacu", "key": 3461638, "value": 3461638
+    },
+    { "text": "Hortolandia", "key": 3461655, "value": 3461655
+    },
+    { "text": "Herval", "key": 3461680, "value": 3461680
+    },
+    { "text": "Gurupi", "key": 3461724, "value": 3461724
+    },
+    { "text": "Guaxupe", "key": 3461763, "value": 3461763
+    },
+    { "text": "Guarulhos", "key": 3461786, "value": 3461786
+    },
+    { "text": "Guaruja", "key": 3461789, "value": 3461789
+    },
+    { "text": "Guariba", "key": 3461824, "value": 3461824
+    },
+    { "text": "Guaratuba", "key": 3461857, "value": 3461857
+    },
+    { "text": "Guaratingueta", "key": 3461859, "value": 3461859
+    },
+    { "text": "Guararema", "key": 3461871, "value": 3461871
+    },
+    { "text": "Guararapes", "key": 3461874, "value": 3461874
+    },
+    { "text": "Guarapuava", "key": 3461879, "value": 3461879
+    },
+    { "text": "Guarapari", "key": 3461888, "value": 3461888
+    },
+    { "text": "Guaranesia", "key": 3461910, "value": 3461910
+    },
+    { "text": "Guaramirim", "key": 3461914, "value": 3461914
+    },
+    { "text": "Guara", "key": 3461935, "value": 3461935
+    },
+    { "text": "Guapore", "key": 3461941, "value": 3461941
+    },
+    { "text": "Guapimirim", "key": 3461949, "value": 3461949
+    },
+    { "text": "Guanhaes", "key": 3461958, "value": 3461958
+    },
+    { "text": "Guanambi", "key": 3461973, "value": 3461973
+    },
+    { "text": "Guaira", "key": 3461995, "value": 3461995
+    },
+    { "text": "Guacui", "key": 3462022, "value": 3462022
+    },
+    { "text": "Gravatai", "key": 3462089, "value": 3462089
+    },
+    { "text": "Governador Valadares", "key": 3462315, "value": 3462315
+    },
+    { "text": "Goiatuba", "key": 3462371, "value": 3462371
+    },
+    { "text": "Goias", "key": 3462374, "value": 3462374
+    },
+    { "text": "Goianira", "key": 3462376, "value": 3462376
+    },
+    { "text": "Goiania", "key": 3462377, "value": 3462377
+    },
+    { "text": "Goianesia", "key": 3462378, "value": 3462378
+    },
+    { "text": "Gaspar", "key": 3462535, "value": 3462535
+    },
+    { "text": "Garibaldi", "key": 3462557, "value": 3462557
+    },
+    { "text": "Garca", "key": 3462580, "value": 3462580
+    },
+    { "text": "Gandu", "key": 3462601, "value": 3462601
+    },
+    { "text": "Frutal", "key": 3462916, "value": 3462916
+    },
+    { "text": "Frederico Westphalen", "key": 3462956, "value": 3462956
+    },
+    { "text": "Franco da Rocha", "key": 3462964, "value": 3462964
+    },
+    { "text": "Francisco Morato", "key": 3462980, "value": 3462980
+    },
+    { "text": "Francisco Beltrao", "key": 3462996, "value": 3462996
+    },
+    { "text": "Franca", "key": 3463011, "value": 3463011
+    },
+    { "text": "Foz do Iguacu", "key": 3463030, "value": 3463030
+    },
+    { "text": "Forquilhinha", "key": 3463066, "value": 3463066
+    },
+    { "text": "Formosa", "key": 3463140, "value": 3463140
+    },
+    { "text": "Formiga", "key": 3463174, "value": 3463174
+    },
+    { "text": "Florianopolis", "key": 3463237, "value": 3463237
+    },
+    { "text": "Flores da Cunha", "key": 3463271, "value": 3463271
+    },
+    { "text": "Ferraz de Vasconcelos", "key": 3463422, "value": 3463422
+    },
+    { "text": "Fernandopolis", "key": 3463432, "value": 3463432
+    },
+    { "text": "Feira de Santana", "key": 3463478, "value": 3463478
+    },
+    { "text": "Farroupilha", "key": 3463605, "value": 3463605
+    },
+    { "text": "Euclides da Cunha", "key": 3463698, "value": 3463698
+    },
+    { "text": "Estrela", "key": 3463762, "value": 3463762
+    },
+    { "text": "Esteio", "key": 3463859, "value": 3463859
+    },
+    { "text": "Estancia Velha", "key": 3463865, "value": 3463865
+    },
+    { "text": "Estancia", "key": 3463900, "value": 3463900
+    },
+    { "text": "Esplanada", "key": 3463920, "value": 3463920
+    },
+    { "text": "Espinosa", "key": 3463939, "value": 3463939
+    },
+    { "text": "Esmeraldas", "key": 3464008, "value": 3464008
+    },
+    { "text": "Erechim", "key": 3464073, "value": 3464073
+    },
+    { "text": "Entre Rios", "key": 3464100, "value": 3464100
+    },
+    { "text": "Encruzilhada do Sul", "key": 3464255, "value": 3464255
+    },
+    { "text": "Encantado", "key": 3464274, "value": 3464274
+    },
+    { "text": "Embu Guacu", "key": 3464304, "value": 3464304
+    },
+    { "text": "Embu", "key": 3464305, "value": 3464305
+    },
+    { "text": "Eloi Mendes", "key": 3464329, "value": 3464329
+    },
+    { "text": "Duque de Caxias", "key": 3464374, "value": 3464374
+    },
+    { "text": "Dourados", "key": 3464460, "value": 3464460
+    },
+    { "text": "Dom Pedrito", "key": 3464547, "value": 3464547
+    },
+    { "text": "Dois Vizinhos", "key": 3464579, "value": 3464579
+    },
+    { "text": "Dois Corregos", "key": 3464618, "value": 3464618
+    },
+    { "text": "Divinopolis", "key": 3464688, "value": 3464688
+    },
+    { "text": "Diamantino", "key": 3464724, "value": 3464724
+    },
+    { "text": "Diamantina", "key": 3464728, "value": 3464728
+    },
+    { "text": "Diadema", "key": 3464739, "value": 3464739
+    },
+    { "text": "Descalvado", "key": 3464809, "value": 3464809
+    },
+    { "text": "Curvelo", "key": 3464891, "value": 3464891
+    },
+    { "text": "Curitibanos", "key": 3464974, "value": 3464974
+    },
+    { "text": "Curitiba", "key": 3464975, "value": 3464975
+    },
+    { "text": "Cuiaba", "key": 3465038, "value": 3465038
+    },
+    { "text": "Cubatao", "key": 3465059, "value": 3465059
+    },
+    { "text": "Cruzeiro do Oeste", "key": 3465083, "value": 3465083
+    },
+    { "text": "Cruzeiro", "key": 3465090, "value": 3465090
+    },
+    { "text": "Cruz das Almas", "key": 3465105, "value": 3465105
+    },
+    { "text": "Cruz Alta", "key": 3465108, "value": 3465108
+    },
+    { "text": "Cristalina", "key": 3465164, "value": 3465164
+    },
+    { "text": "Criciuma", "key": 3465196, "value": 3465196
+    },
+    { "text": "Cravinhos", "key": 3465209, "value": 3465209
+    },
+    { "text": "Coxim", "key": 3465228, "value": 3465228
+    },
+    { "text": "Cotia", "key": 3465284, "value": 3465284
+    },
+    { "text": "Cosmopolis", "key": 3465320, "value": 3465320
+    },
+    { "text": "Coruripe", "key": 3465329, "value": 3465329
+    },
+    { "text": "Corumba", "key": 3465342, "value": 3465342
+    },
+    { "text": "Coronel Vivida", "key": 3465459, "value": 3465459
+    },
+    { "text": "Coronel Fabriciano", "key": 3465476, "value": 3465476
+    },
+    { "text": "Coromandel", "key": 3465487, "value": 3465487
+    },
+    { "text": "Corinto", "key": 3465512, "value": 3465512
+    },
+    { "text": "Cordeiropolis", "key": 3465524, "value": 3465524
+    },
+    { "text": "Cordeiro", "key": 3465527, "value": 3465527
+    },
+    { "text": "Contagem", "key": 3465624, "value": 3465624
+    },
+    { "text": "Conselheiro Lafaiete", "key": 3465644, "value": 3465644
+    },
+    { "text": "Congonhas", "key": 3465671, "value": 3465671
+    },
+    { "text": "Conde", "key": 3465713, "value": 3465713
+    },
+    { "text": "Concordia", "key": 3465721, "value": 3465721
+    },
+    { "text": "Conchal", "key": 3465731, "value": 3465731
+    },
+    { "text": "Conceicao do Coite", "key": 3465748, "value": 3465748
+    },
+    { "text": "Conceicao do Jacuipe", "key": 3465758, "value": 3465758
+    },
+    { "text": "Conceicao das Alagoas", "key": 3465764, "value": 3465764
+    },
+    { "text": "Conceicao da Feira", "key": 3465767, "value": 3465767
+    },
+    { "text": "Conceicao da Barra", "key": 3465769, "value": 3465769
+    },
+    { "text": "Colorado", "key": 3465881, "value": 3465881
+    },
+    { "text": "Colombo", "key": 3465927, "value": 3465927
+    },
+    { "text": "Colatina", "key": 3465944, "value": 3465944
+    },
+    { "text": "Coaraci", "key": 3466041, "value": 3466041
+    },
+    { "text": "Claudio", "key": 3466062, "value": 3466062
+    },
+    { "text": "Cicero Dantas", "key": 3466171, "value": 3466171
+    },
+    { "text": "Cianorte", "key": 3466174, "value": 3466174
+    },
+    { "text": "Charqueadas", "key": 3466261, "value": 3466261
+    },
+    { "text": "Chapeco", "key": 3466296, "value": 3466296
+    },
+    { "text": "Cerquilho", "key": 3466429, "value": 3466429
+    },
+    { "text": "Ceres", "key": 3466436, "value": 3466436
+    },
+    { "text": "Celso Ramos", "key": 3466481, "value": 3466481
+    },
+    { "text": "Caxias do Sul", "key": 3466537, "value": 3466537
+    },
+    { "text": "Caxambu", "key": 3466547, "value": 3466547
+    },
+    { "text": "Catu", "key": 3466641, "value": 3466641
+    },
+    { "text": "Catanduva", "key": 3466692, "value": 3466692
+    },
+    { "text": "Catalao", "key": 3466696, "value": 3466696
+    },
+    { "text": "Cataguases", "key": 3466698, "value": 3466698
+    },
+    { "text": "Castro", "key": 3466704, "value": 3466704
+    },
+    { "text": "Castelo", "key": 3466723, "value": 3466723
+    },
+    { "text": "Cassilandia", "key": 3466750, "value": 3466750
+    },
+    { "text": "Casimiro de Abreu", "key": 3466763, "value": 3466763
+    },
+    { "text": "Cascavel", "key": 3466779, "value": 3466779
+    },
+    { "text": "Casa Branca", "key": 3466824, "value": 3466824
+    },
+    { "text": "Carmo do Paranaiba", "key": 3466902, "value": 3466902
+    },
+    { "text": "Carmo do Cajuru", "key": 3466903, "value": 3466903
+    },
+    { "text": "Carlos Barbosa", "key": 3466933, "value": 3466933
+    },
+    { "text": "Carazinho", "key": 3466978, "value": 3466978
+    },
+    { "text": "Caratinga", "key": 3466988, "value": 3466988
+    },
+    { "text": "Carapicuiba", "key": 3466998, "value": 3466998
+    },
+    { "text": "Carangola", "key": 3467012, "value": 3467012
+    },
+    { "text": "Carandai", "key": 3467026, "value": 3467026
+    },
+    { "text": "Caraguatatuba", "key": 3467081, "value": 3467081
+    },
+    { "text": "Capivari", "key": 3467197, "value": 3467197
+    },
+    { "text": "Capinzal", "key": 3467261, "value": 3467261
+    },
+    { "text": "Capim Grosso", "key": 3467272, "value": 3467272
+    },
+    { "text": "Capelinha", "key": 3467305, "value": 3467305
+    },
+    { "text": "Capela", "key": 3467319, "value": 3467319
+    },
+    { "text": "Capao da Canoa", "key": 3467362, "value": 3467362
+    },
+    { "text": "Capao Bonito", "key": 3467371, "value": 3467371
+    },
+    { "text": "Canoinhas", "key": 3467452, "value": 3467452
+    },
+    { "text": "Canoas", "key": 3467467, "value": 3467467
+    },
+    { "text": "Cangucu", "key": 3467512, "value": 3467512
+    },
+    { "text": "Canela", "key": 3467530, "value": 3467530
+    },
+    { "text": "Candido Mota", "key": 3467542, "value": 3467542
+    },
+    { "text": "Candelaria", "key": 3467550, "value": 3467550
+    },
+    { "text": "Canavieiras", "key": 3467577, "value": 3467577
+    },
+    { "text": "Campo Verde", "key": 3467673, "value": 3467673
+    },
+    { "text": "Campos Novos", "key": 3467677, "value": 3467677
+    },
+    { "text": "Campos Gerais", "key": 3467680, "value": 3467680
+    },
+    { "text": "Campos do Jordao", "key": 3467684, "value": 3467684
+    },
+    { "text": "Campos Belos", "key": 3467687, "value": 3467687
+    },
+    { "text": "Campos", "key": 3467693, "value": 3467693
+    },
+    { "text": "Campo Mourao", "key": 3467717, "value": 3467717
+    },
+    { "text": "Campo Largo", "key": 3467736, "value": 3467736
+    },
+    { "text": "Campo Grande", "key": 3467747, "value": 3467747
+    },
+    { "text": "Campo Formoso", "key": 3467760, "value": 3467760
+    },
+    { "text": "Campo Belo", "key": 3467796, "value": 3467796
+    },
+    { "text": "Campinas", "key": 3467865, "value": 3467865
+    },
+    { "text": "Campina Grande do Sul", "key": 3467877, "value": 3467877
+    },
+    { "text": "Cambui", "key": 3467956, "value": 3467956
+    },
+    { "text": "Cambe", "key": 3467978, "value": 3467978
+    },
+    { "text": "Cambara", "key": 3467985, "value": 3467985
+    },
+    { "text": "Camaqua", "key": 3468014, "value": 3468014
+    },
+    { "text": "Camanducaia", "key": 3468023, "value": 3468023
+    },
+    { "text": "Camacari", "key": 3468031, "value": 3468031
+    },
+    { "text": "Caldas Novas", "key": 3468100, "value": 3468100
+    },
+    { "text": "Cajuru", "key": 3468121, "value": 3468121
+    },
+    { "text": "Cajati", "key": 3468157, "value": 3468157
+    },
+    { "text": "Cajamar", "key": 3468158, "value": 3468158
+    },
+    { "text": "Caieiras", "key": 3468215, "value": 3468215
+    },
+    { "text": "Caetite", "key": 3468317, "value": 3468317
+    },
+    { "text": "Caete", "key": 3468327, "value": 3468327
+    },
+    { "text": "Cachoeiro de Itapemirim", "key": 3468376, "value": 3468376
+    },
+    { "text": "Cachoeirinha", "key": 3468403, "value": 3468403
+    },
+    { "text": "Cachoeiras de Macacu", "key": 3468425, "value": 3468425
+    },
+    { "text": "Cachoeira do Sul", "key": 3468436, "value": 3468436
+    },
+    { "text": "Cachoeira", "key": 3468535, "value": 3468535
+    },
+    { "text": "Cacapava do Sul", "key": 3468560, "value": 3468560
+    },
+    { "text": "Cacapava", "key": 3468562, "value": 3468562
+    },
+    { "text": "Cacador", "key": 3468570, "value": 3468570
+    },
+    { "text": "Cabreuva", "key": 3468592, "value": 3468592
+    },
+    { "text": "Cabo Frio", "key": 3468615, "value": 3468615
+    },
+    { "text": "Butia", "key": 3468704, "value": 3468704
+    },
+    { "text": "Buritizeiro", "key": 3468720, "value": 3468720
+    },
+    { "text": "Buritis", "key": 3468732, "value": 3468732
+    },
+    { "text": "Buri", "key": 3468802, "value": 3468802
+    },
+    { "text": "Buerarema", "key": 3468858, "value": 3468858
+    },
+    { "text": "Brusque", "key": 3468879, "value": 3468879
+    },
+    { "text": "Brumado", "key": 3468893, "value": 3468893
+    },
+    { "text": "Brumadinho", "key": 3468894, "value": 3468894
+    },
+    { "text": "Brotas", "key": 3468899, "value": 3468899
+    },
+    { "text": "Brodosqui", "key": 3468902, "value": 3468902
+    },
+    { "text": "Brasilia", "key": 3469058, "value": 3469058
+    },
+    { "text": "Braganca Paulista", "key": 3469092, "value": 3469092
+    },
+    { "text": "Braco do Norte", "key": 3469115, "value": 3469115
+    },
+    { "text": "Botucatu", "key": 3469136, "value": 3469136
+    },
+    { "text": "Bom Jesus do Itabapoana", "key": 3469425, "value": 3469425
+    },
+    { "text": "Bom Jesus da Lapa", "key": 3469437, "value": 3469437
+    },
+    { "text": "Bom Despacho", "key": 3469516, "value": 3469516
+    },
+    { "text": "Boituva", "key": 3469540, "value": 3469540
+    },
+    { "text": "Bocaiuva", "key": 3469601, "value": 3469601
+    },
+    { "text": "Boa Esperanca", "key": 3469932, "value": 3469932
+    },
+    { "text": "Blumenau", "key": 3469968, "value": 3469968
+    },
+    { "text": "Biritiba Mirim", "key": 3469984, "value": 3469984
+    },
+    { "text": "Birigui", "key": 3469989, "value": 3469989
+    },
+    { "text": "Biguacu", "key": 3470003, "value": 3470003
+    },
+    { "text": "Betim", "key": 3470044, "value": 3470044
+    },
+    { "text": "Bertioga", "key": 3470052, "value": 3470052
+    },
+    { "text": "Bento Goncalves", "key": 3470073, "value": 3470073
+    },
+    { "text": "Belo Oriente", "key": 3470117, "value": 3470117
+    },
+    { "text": "Belo Horizonte", "key": 3470127, "value": 3470127
+    },
+    { "text": "Belford Roxo", "key": 3470142, "value": 3470142
+    },
+    { "text": "Bela Vista", "key": 3470177, "value": 3470177
+    },
+    { "text": "Bebedouro", "key": 3470264, "value": 3470264
+    },
+    { "text": "Bauru", "key": 3470279, "value": 3470279
+    },
+    { "text": "Batatais", "key": 3470324, "value": 3470324
+    },
+    { "text": "Bastos", "key": 3470341, "value": 3470341
+    },
+    { "text": "Barueri", "key": 3470353, "value": 3470353
+    },
+    { "text": "Barroso", "key": 3470369, "value": 3470369
+    },
+    { "text": "Barrinha", "key": 3470428, "value": 3470428
+    },
+    { "text": "Barretos", "key": 3470451, "value": 3470451
+    },
+    { "text": "Barreiro do Jaiba", "key": 3470470, "value": 3470470
+    },
+    { "text": "Barreiras", "key": 3470583, "value": 3470583
+    },
+    { "text": "Barra Velha", "key": 3470597, "value": 3470597
+    },
+    { "text": "Barra Mansa", "key": 3470636, "value": 3470636
+    },
+    { "text": "Barra dos Coqueiros", "key": 3470674, "value": 3470674
+    },
+    { "text": "Barra do Pirai", "key": 3470691, "value": 3470691
+    },
+    { "text": "Barra do Garcas", "key": 3470709, "value": 3470709
+    },
+    { "text": "Barra do Bugres", "key": 3470718, "value": 3470718
+    },
+    { "text": "Barra de Sao Francisco", "key": 3470730, "value": 3470730
+    },
+    { "text": "Barra Bonita", "key": 3470776, "value": 3470776
+    },
+    { "text": "Barra", "key": 3470821, "value": 3470821
+    },
+    { "text": "Bariri", "key": 3470825, "value": 3470825
+    },
+    { "text": "Barbacena", "key": 3470858, "value": 3470858
+    },
+    { "text": "Barao de Cocais", "key": 3470878, "value": 3470878
+    },
+    { "text": "Bandeirantes", "key": 3470912, "value": 3470912
+    },
+    { "text": "Bambui", "key": 3471005, "value": 3471005
+    },
+    { "text": "Balneario Camboriu", "key": 3471039, "value": 3471039
+    },
+    { "text": "Baixo Guandu", "key": 3471061, "value": 3471061
+    },
+    { "text": "Bage", "key": 3471196, "value": 3471196
+    },
+    { "text": "Avare", "key": 3471291, "value": 3471291
+    },
+    { "text": "Atibaia", "key": 3471335, "value": 3471335
+    },
+    { "text": "Astorga", "key": 3471368, "value": 3471368
+    },
+    { "text": "Assis", "key": 3471374, "value": 3471374
+    },
+    { "text": "Aruja", "key": 3471393, "value": 3471393
+    },
+    { "text": "Artur Nogueira", "key": 3471395, "value": 3471395
+    },
+    { "text": "Arroio Grande", "key": 3471422, "value": 3471422
+    },
+    { "text": "Arroio do Meio", "key": 3471428, "value": 3471428
+    },
+    { "text": "Arraial do Cabo", "key": 3471451, "value": 3471451
+    },
+    { "text": "Armacao de Buzios", "key": 3471487, "value": 3471487
+    },
+    { "text": "Arcos", "key": 3471683, "value": 3471683
+    },
+    { "text": "Araxa", "key": 3471691, "value": 3471691
+    },
+    { "text": "Araucaria", "key": 3471697, "value": 3471697
+    },
+    { "text": "Araruama", "key": 3471715, "value": 3471715
+    },
+    { "text": "Araras", "key": 3471758, "value": 3471758
+    },
+    { "text": "Araraquara", "key": 3471766, "value": 3471766
+    },
+    { "text": "Ararangua", "key": 3471772, "value": 3471772
+    },
+    { "text": "Arapongas", "key": 3471798, "value": 3471798
+    },
+    { "text": "Araguari", "key": 3471830, "value": 3471830
+    },
+    { "text": "Aragarcas", "key": 3471840, "value": 3471840
+    },
+    { "text": "Aracuai", "key": 3471846, "value": 3471846
+    },
+    { "text": "Aracruz", "key": 3471848, "value": 3471848
+    },
+    { "text": "Aracoiaba da Serra", "key": 3471849, "value": 3471849
+    },
+    { "text": "Araci", "key": 3471854, "value": 3471854
+    },
+    { "text": "Aracatuba", "key": 3471859, "value": 3471859
+    },
+    { "text": "Aracaju", "key": 3471872, "value": 3471872
+    },
+    { "text": "Aquidauana", "key": 3471896, "value": 3471896
+    },
+    { "text": "Apucarana", "key": 3471910, "value": 3471910
+    },
+    { "text": "Apiai", "key": 3471927, "value": 3471927
+    },
+    { "text": "Aparecida do Taboado", "key": 3471940, "value": 3471940
+    },
+    { "text": "Aparecida", "key": 3471949, "value": 3471949
+    },
+    { "text": "Antonina", "key": 3472048, "value": 3472048
+    },
+    { "text": "Anicuns", "key": 3472138, "value": 3472138
+    },
+    { "text": "Angra dos Reis", "key": 3472177, "value": 3472177
+    },
+    { "text": "Andradina", "key": 3472248, "value": 3472248
+    },
+    { "text": "Andradas", "key": 3472254, "value": 3472254
+    },
+    { "text": "Anastacio", "key": 3472284, "value": 3472284
+    },
+    { "text": "Anapolis", "key": 3472287, "value": 3472287
+    },
+    { "text": "Amparo", "key": 3472311, "value": 3472311
+    },
+    { "text": "Americo Brasiliense", "key": 3472338, "value": 3472338
+    },
+    { "text": "Americana", "key": 3472343, "value": 3472343
+    },
+    { "text": "Amargosa", "key": 3472370, "value": 3472370
+    },
+    { "text": "Alvares Machado", "key": 3472417, "value": 3472417
+    },
+    { "text": "Almirante Tamandare", "key": 3472518, "value": 3472518
+    },
+    { "text": "Almenara", "key": 3472520, "value": 3472520
+    },
+    { "text": "Alfenas", "key": 3472603, "value": 3472603
+    },
+    { "text": "Alem Paraiba", "key": 3472609, "value": 3472609
+    },
+    { "text": "Alegrete", "key": 3472638, "value": 3472638
+    },
+    { "text": "Alegre", "key": 3472666, "value": 3472666
+    },
+    { "text": "Alagoinhas", "key": 3472766, "value": 3472766
+    },
+    { "text": "Aimores", "key": 3472808, "value": 3472808
+    },
+    { "text": "Agudos", "key": 3472825, "value": 3472825
+    },
+    { "text": "Aguas Vermelhas", "key": 3472848, "value": 3472848
+    },
+    { "text": "Aguas de Lindoia", "key": 3472869, "value": 3472869
+    },
+    { "text": "Aguai", "key": 3472969, "value": 3472969
+    },
+    { "text": "Adamantina", "key": 3473157, "value": 3473157
+    },
+    { "text": "Abaete", "key": 3473267, "value": 3473267
+    },
+    { "text": "Guaiba", "key": 3473964, "value": 3473964
+    },
+    { "text": "Palmas", "key": 3474574, "value": 3474574
+    },
+    { "text": "Tefe", "key": 3661944, "value": 3661944
+    },
+    { "text": "Tarauaca", "key": 3661980, "value": 3661980
+    },
+    { "text": "Tabatinga", "key": 3662075, "value": 3662075
+    },
+    { "text": "Sena Madureira", "key": 3662155, "value": 3662155
+    },
+    { "text": "Sao Gabriel da Cachoeira",
+  "key": 3662342,
+  "value": 3662342
+    },
+    { "text": "Rio Branco", "key": 3662574, "value": 3662574
+    },
+    { "text": "Porto Velho", "key": 3662762, "value": 3662762
+    },
+    { "text": "Manaus", "key": 3663517, "value": 3663517
+    },
+    { "text": "Manacapuru", "key": 3663529, "value": 3663529
+    },
+    { "text": "Humaita", "key": 3664078, "value": 3664078
+    },
+    { "text": "Fonte Boa", "key": 3664207, "value": 3664207
+    },
+    { "text": "Eirunepe", "key": 3664321, "value": 3664321
+    },
+    { "text": "Coari", "key": 3664539, "value": 3664539
+    },
+    { "text": "Carauari", "key": 3664659, "value": 3664659
+    },
+    { "text": "Boa Vista", "key": 3664980, "value": 3664980
+    },
+    { "text": "Ariquemes", "key": 3665199, "value": 3665199
+    },
+    { "text": "Aripuana", "key": 3665202, "value": 3665202
+    },
+    { "text": "Vilhena", "key": 3924679, "value": 3924679
+    },
+    { "text": "Posto Fiscal Rolim de Moura",
+  "key": 3924877,
+  "value": 3924877
+    },
+    { "text": "Pimenta Bueno", "key": 3924908, "value": 3924908
+    },
+    { "text": "Ouro Preto do Oeste", "key": 3924948, "value": 3924948
+    },
+    { "text": "Jaru", "key": 3925040, "value": 3925040
+    },
+    { "text": "Guajara Mirim", "key": 3925075, "value": 3925075
+    },
+    { "text": "Cacoal", "key": 3925212, "value": 3925212
+    },
+    { "text": "Aparecida de Goiania", "key": 6316406, "value": 6316406
+    },
+    { "text": "Campinas", "key": 6316729, "value": 6316729
+    },
+    { "text": "Jaboatao dos Guararapes", "key": 6317344, "value": 6317344
+    },
+    { "text": "Lauro de Freitas", "key": 6317464, "value": 6317464
+    },
+    { "text": "Pinhais", "key": 6317953, "value": 6317953
+    },
+    { "text": "Rio Preto da Eva", "key": 6318165, "value": 6318165
+    },
+    { "text": "Simoes Filho", "key": 6318694, "value": 6318694
+    },
+    { "text": "Cambebba", "key": 6693804, "value": 6693804
+    },
+    { "text": "Disney", "key": 7732959, "value": 7732959
+    },
+    { "text": "Trindade", "key": 7874479, "value": 7874479
+    },
+    { "text": "Freguesia do Ribeirao da Ilha",
+  "key": 7874492,
+  "value": 7874492
+    }
+]

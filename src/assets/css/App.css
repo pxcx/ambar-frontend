@@ -1,0 +1,13 @@
+.app-container{
+    min-height: 100vh;
+    padding: 2em 0em;
+}
+
+.app-grid{
+    padding: 2.5em 0em;
+    text-align: center;
+}
+
+.anteriores-btn{
+    margin-top: 5em !important;
+}
