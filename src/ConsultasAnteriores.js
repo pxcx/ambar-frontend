@@ -13,22 +13,30 @@ class ConsultasAnteriores extends Component {
             <Container text className='app-grid'>
                 {
                     this.props.consultas.length > 0 ? (
-                        <Card.Group >
-                            {
-                                this.props.consultas.map( (consulta,key) => {
-                                    return (
-                                        <WeatherCard
-                                            key={key}
-                                            cidade={consulta.cidade}
-                                            temperatura={consulta.temperatura}
-                                            temperatura_max={consulta.temperatura_max}
-                                            temperatura_min={consulta.temperatura_min}
-                                            icon={consulta.icon}
-                                        />
-                                    )
-                                })
-                            }
-                        </Card.Group>
+                        <Container text>
+                            <Header
+                                as='h2'
+                                content='Consultas Recentes'
+                                inverted
+                                textAlign='center'
+                            />
+                            <Card.Group className='card-grid'>
+                                {
+                                    this.props.consultas.map( (consulta,key) => {
+                                        return (
+                                            <WeatherCard
+                                                key={key}
+                                                cidade={consulta.cidade}
+                                                temperatura={consulta.temperatura}
+                                                temperatura_max={consulta.temperatura_max}
+                                                temperatura_min={consulta.temperatura_min}
+                                                icon={consulta.icon}
+                                            />
+                                        )
+                                    })
+                                }
+                            </Card.Group>
+                        </Container>
                     ) : (
                         <Header
                             as='h3'

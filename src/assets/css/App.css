@@ -1,6 +1,12 @@
-.app-container{
+#root {
+    height: 100%;
     min-height: 100vh;
-    padding: 2em 0em;
+    background: #1b1c1d;
+}
+.app-container{
+    height: auto;
+    min-height: 100vh;
+    padding: 3em 0em;
 }
 
 .app-grid{
@@ -9,5 +15,5 @@
 }
 
 .anteriores-btn{
-    margin-top: 5em !important;
+    margin-top: 1em !important;
 }
