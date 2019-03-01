@@ -13,6 +13,6 @@ Instala todas as dependências do projeto.
 Executa o app no modo de desenvolvimento.<br>
 O App será executado na URL: [http://localhost:3000](http://localhost:3000).
 
-### `build de exemplo`
+## Exemplo
 
 Criei uma build de exemplo e publiquei na seguinte URL: [http://ambar.pxcx.com.br](http://ambar.pxcx.com.br).
